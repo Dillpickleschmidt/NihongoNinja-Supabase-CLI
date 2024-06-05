@@ -1,0 +1,2 @@
+# NihongoNinja-Supabase-CLI
+ 

@@ -1,0 +1,19 @@
+{
+  "name": "nihongoninja-supabase-cli",
+  "module": "index.ts",
+  "type": "module",
+  "bin": {
+    "nihongo-cli": "./index.ts"
+  },
+  "nihongoninja-supabase-cli": "link:nihongoninja-supabase-cli",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/inquirer": "^9.0.7"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  }
+}
