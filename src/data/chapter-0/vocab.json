@@ -1,0 +1,268 @@
+[
+  {
+    "word": "おはようございます",
+    "furigana": ["おはようございます"],
+    "english": ["Good Morning"],
+    "mnemonics": [],
+    "info": [
+      "This is a polite way to say good morning and is typically used until late morning.",
+      "Drop 'ございます' for a more casual version, just 'おはよう (Ohayou)'.",
+      "The casual version, 'おはよう' is often used among friends, family, or colleagues you're familiar with.",
+      "The polite form 'おはようございます' is suitable for more formal situations or when addressing someone you don't know well.",
+      "It's a common greeting in schools, workplaces, or when doing morning activities.",
+      "As a rule of thumb, drop ございます when you're on a first-name basis with someone (friends and family).",
+      "If you refer to that person as Mr./Ms., use the longer ございます version."
+    ],
+    "example_sentences": ["Example 1", "Example 2"],
+    "chapter": 0,
+    "videos": [
+      {
+        "src": "https://drive.google.com/file/d/1DxePLe6C4qeLC7z7V6-gO4LlTThALRUc/preview",
+        "title": "Future Plans",
+        "origin": "TV Show Example"
+      }
+    ]
+  },
+  {
+    "word": "こんにちは",
+    "furigana": ["こんにちは"],
+    "english": ["Good Afternoon", "Hello"],
+    "mnemonics": [],
+    "info": [
+      "This is the most versatile and common greeting in Japanese.",
+      "It's used from late morning (around 11 am) until early evening (around 5-6 pm).",
+      "It's akin to saying 'Good afternoon' or a general 'Hello' in English.",
+      "You'll hear this greeting in a wide range of settings, from casual encounters to more formal situations.",
+      "It's a safe, go-to greeting for most daytime interactions."
+    ],
+    "chapter": 0,
+    "videos": []
+  },
+  {
+    "word": "こんばんは",
+    "furigana": ["こんばんは"],
+    "english": ["Good Evening"],
+    "mnemonics": [],
+    "info": [
+      "Used in the evening, starting around dusk.",
+      "It's a polite greeting that's appropriate in both casual and formal situations.",
+      "Whether you're entering a restaurant in the evening, meeting someone for a night event, or just greeting your neighbor, 'こんばんは' is the suitable choice."
+    ],
+    "chapter": 0,
+    "videos": []
+  },
+  {
+    "word": "じゃあね",
+    "furigana": ["じゃあね"],
+    "english": ["See you", "Bye"],
+    "mnemonics": [],
+    "info": [
+      "This phrase is casual and friendly, often used among friends, family, or close colleagues.",
+      "It's equivalent to saying 'See you', 'Bye', or 'Catch you later' in English.",
+      "It implies an informal and easy-going parting, often when you expect to see the person again soon.",
+      "It's perfect for everyday casual farewells, like when leaving a café after meeting a friend or saying goodbye at the end of a school or work day."
+    ],
+    "chapter": 0,
+    "videos": []
+  },
+  {
+    "word": "またね",
+    "furigana": ["またね"],
+    "english": ["See you later"],
+    "mnemonics": [],
+    "info": [
+      "This phrase is also casual and conveys a similar sense as 'じゃあね (Jaa ne)'.",
+      "It's used in situations where you are expecting to see or speak to the person again in the future.",
+      "It's warm and friendly, suitable for parting with friends or colleagues in a casual setting."
+    ],
+    "chapter": 0,
+    "videos": []
+  },
+  {
+    "word": "ありがとうございます",
+    "furigana": ["ありがとうございます"],
+    "english": ["Thank You"],
+    "mnemonics": [],
+    "info": [
+      "A polite way to say thank you.",
+      "For a more casual form, just 'ありがとう (Arigatou)' is commonly used."
+    ],
+    "chapter": 0,
+    "videos": []
+  },
+  {
+    "word": "さようなら",
+    "furigana": ["さようなら"],
+    "english": ["Goodbye"],
+    "mnemonics": [],
+    "info": [
+      "This is a formal and somewhat solemn way of saying goodbye, often used when you won't see someone for a while.",
+      "さようなら is when the speaker does not expect to see the person spoken to before he/she turns a new page in his/her life—a long time.",
+      "Therefore, it's not commonly used in daily casual conversation.",
+      "In more everyday casual settings, phrases like 'じゃあね (Jaa ne)' or 'またね (Mata ne)' are used among friends or colleagues, with more sophisticated expressions used in the workplace that we'll explore later."
+    ],
+    "chapter": 0,
+    "videos": []
+  },
+  {
+    "word": "すみません",
+    "furigana": ["すみません"],
+    "english": ["Excuse Me"],
+    "mnemonics": [],
+    "info": [
+      "'Sumimasen' is primarily used as a polite way to say 'excuse me' or 'I'm sorry.'",
+      "It's a way to acknowledge an inconvenience you might have caused someone or to politely get someone's attention.",
+      "This expression is a versatile and essential part of the Japanese language, often used in various contexts.",
+      "It also highlights some of the major differences between Japanese and Western cultures, so let's break down its uses and nuances."
+    ],
+    "chapter": 0,
+    "videos": []
+  },
+  {
+    "word": "いいえ",
+    "furigana": ["いいえ"],
+    "english": ["No"],
+    "mnemonics": [],
+    "info": [
+      "It's like saying 'No, thank you,' or 'Don't mention it' without making the other party feel obligated.",
+      "It's the kind of 'No' that comes with a bow and a smile.",
+      "Picture yourself at a sushi bar: if the chef asks if you want more wasabi and you're already breathing fire, a gentle 'いいえ' is your go-to.",
+      "In Japanese, where the art of being polite is pretty much a national sport, 'いいえ' is your essential tool for saying 'No' without any of the harshness.",
+      "It's the perfect blend of firmness and respect!"
+    ],
+    "chapter": 0,
+    "videos": []
+  },
+  {
+    "word": "おやすみ",
+    "furigana": ["おやすみ"],
+    "english": ["Goodnight"],
+    "mnemonics": [],
+    "info": [
+      "The universal 'Goodnight' but with a Japanese twist.",
+      "'Oyasumi' is for your buddies, and 'Oyasuminasai' is for when you want to impress your cat with your politeness."
+    ],
+    "chapter": 0,
+    "videos": []
+  },
+  {
+    "word": "おやすみなさい",
+    "furigana": ["おやすみなさい"],
+    "english": ["Goodnight"],
+    "mnemonics": [],
+    "info": [
+      "The universal 'Goodnight' but with a Japanese twist.",
+      "'Oyasumi' is for your buddies, and 'Oyasuminasai' is for when you want to impress your cat with your politeness."
+    ],
+    "chapter": 0,
+    "videos": []
+  },
+  {
+    "word": "いってきます",
+    "furigana": ["いってきます"],
+    "english": ["I'll go and come back"],
+    "mnemonics": [],
+    "info": [
+      "What you say when leaving the house, meaning 'I'll go and come back.'",
+      "It's like a boomerang promise to your family."
+    ],
+    "chapter": 0,
+    "videos": []
+  },
+  {
+    "word": "いってらっしゃい",
+    "furigana": ["いってらっしゃい"],
+    "english": ["Go and come back"],
+    "mnemonics": [],
+    "info": [
+      "The response to 'いってきます,' meaning 'Go and come back.'",
+      "It's like saying, 'You better come back, or the cat gets your dinner,' but in a polite way."
+    ],
+    "chapter": 0,
+    "videos": []
+  },
+  {
+    "word": "ただいま",
+    "furigana": ["ただいま"],
+    "english": ["I'm home"],
+    "mnemonics": [],
+    "info": [
+      "What you say when you return home, meaning 'I'm home.'",
+      "It's like announcing your grand entrance to an audience of houseplants."
+    ],
+    "chapter": 0,
+    "videos": []
+  },
+  {
+    "word": "おかえり",
+    "furigana": ["おかえり"],
+    "english": ["Welcome home"],
+    "mnemonics": [],
+    "info": [
+      "The response to 'ただいま,' meaning 'Welcome home.'",
+      "It's the warm fuzzy feeling of being back, in word form."
+    ],
+    "chapter": 0,
+    "videos": []
+  },
+  {
+    "word": "おかえりなさい",
+    "furigana": ["おかえりなさい"],
+    "english": ["Welcome home"],
+    "mnemonics": [],
+    "info": [
+      "The response to 'ただいま,' meaning 'Welcome home.'",
+      "It's the warm fuzzy feeling of being back, in word form."
+    ],
+    "chapter": 0,
+    "videos": []
+  },
+  {
+    "word": "いただきます",
+    "furigana": ["いただきます"],
+    "english": ["Thanks for the food"],
+    "mnemonics": [],
+    "info": [
+      "Said before eating, it's like a mini-gratitude speech to the food gods.",
+      "'Thanks for this feast that I'm about to demolish.'"
+    ],
+    "chapter": 0,
+    "videos": []
+  },
+  {
+    "word": "ごちそうさまでした",
+    "furigana": ["ごちそうさまでした"],
+    "english": ["That was delicious"],
+    "mnemonics": [],
+    "info": [
+      "Said after eating, it's the classy way to say 'That was delicious.'",
+      "It's like a mic drop at the end of a meal."
+    ],
+    "chapter": 0,
+    "videos": []
+  },
+  {
+    "word": "はじめまして",
+    "furigana": ["はじめまして"],
+    "english": ["Nice to meet you"],
+    "mnemonics": [],
+    "info": [
+      "The cool, casual 'Nice to meet you.'",
+      "Use it when you meet someone new or your friend's pet tarantula."
+    ],
+    "chapter": 0,
+    "videos": []
+  },
+  {
+    "word": "よろしく おねがいします",
+    "furigana": ["よろしく おねがいします"],
+    "english": ["Please be kind to me"],
+    "mnemonics": [],
+    "info": [
+      "This one's tricky to translate, but it's a mix of 'Please be kind to me,' 'Let's get along,' and 'I'm counting on you.'",
+      "It's the ultimate ice-breaker and friend-maker."
+    ],
+    "chapter": 0,
+    "videos": []
+  }
+]

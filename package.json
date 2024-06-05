@@ -14,6 +14,10 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
+    "@inquirer/checkbox": "^2.3.5",
+    "@inquirer/input": "^2.1.9",
+    "@inquirer/select": "^2.3.5",
+    "@supabase/supabase-js": "^2.43.4",
     "inquirer": "^9.2.23"
   }
 }
