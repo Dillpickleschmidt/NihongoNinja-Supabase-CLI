@@ -1,0 +1,965 @@
+[
+  {
+    "word": "あ",
+    "furigana": ["あ"],
+    "english": ["a"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "い",
+    "furigana": ["い"],
+    "english": ["i"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "う",
+    "furigana": ["う"],
+    "english": ["u"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "え",
+    "furigana": ["え"],
+    "english": ["e"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "お",
+    "furigana": ["お"],
+    "english": ["o"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "か",
+    "furigana": ["か"],
+    "english": ["ka"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "き",
+    "furigana": ["き"],
+    "english": ["ki"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "く",
+    "furigana": ["く"],
+    "english": ["ku"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "け",
+    "furigana": ["け"],
+    "english": ["ke"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "こ",
+    "furigana": ["こ"],
+    "english": ["ko"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "さ",
+    "furigana": ["さ"],
+    "english": ["sa"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "し",
+    "furigana": ["し"],
+    "english": ["shi"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "す",
+    "furigana": ["す"],
+    "english": ["su"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "せ",
+    "furigana": ["せ"],
+    "english": ["se"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "そ",
+    "furigana": ["そ"],
+    "english": ["so"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "た",
+    "furigana": ["た"],
+    "english": ["ta"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ち",
+    "furigana": ["ち"],
+    "english": ["chi"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "つ",
+    "furigana": ["つ"],
+    "english": ["tsu"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "て",
+    "furigana": ["て"],
+    "english": ["te"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "と",
+    "furigana": ["と"],
+    "english": ["to"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "な",
+    "furigana": ["な"],
+    "english": ["na"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "に",
+    "furigana": ["に"],
+    "english": ["ni"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ぬ",
+    "furigana": ["ぬ"],
+    "english": ["nu"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ね",
+    "furigana": ["ね"],
+    "english": ["ne"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "の",
+    "furigana": ["の"],
+    "english": ["no"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "は",
+    "furigana": ["は"],
+    "english": ["ha"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ひ",
+    "furigana": ["ひ"],
+    "english": ["hi"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ふ",
+    "furigana": ["ふ"],
+    "english": ["fu"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "へ",
+    "furigana": ["へ"],
+    "english": ["he"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ほ",
+    "furigana": ["ほ"],
+    "english": ["ho"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ま",
+    "furigana": ["ま"],
+    "english": ["ma"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "み",
+    "furigana": ["み"],
+    "english": ["mi"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "む",
+    "furigana": ["む"],
+    "english": ["mu"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "め",
+    "furigana": ["め"],
+    "english": ["me"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "も",
+    "furigana": ["も"],
+    "english": ["mo"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "や",
+    "furigana": ["や"],
+    "english": ["ya"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ゆ",
+    "furigana": ["ゆ"],
+    "english": ["yu"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "よ",
+    "furigana": ["よ"],
+    "english": ["yo"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ら",
+    "furigana": ["ら"],
+    "english": ["ra"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "り",
+    "furigana": ["り"],
+    "english": ["ri"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "る",
+    "furigana": ["る"],
+    "english": ["ru"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "れ",
+    "furigana": ["れ"],
+    "english": ["re"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ろ",
+    "furigana": ["ろ"],
+    "english": ["ro"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "わ",
+    "furigana": ["わ"],
+    "english": ["wa"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "を",
+    "furigana": ["を"],
+    "english": ["wo", "o"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ん",
+    "furigana": ["ん"],
+    "english": ["n"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "が",
+    "furigana": ["が"],
+    "english": ["ga"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ぎ",
+    "furigana": ["ぎ"],
+    "english": ["gi"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ぐ",
+    "furigana": ["ぐ"],
+    "english": ["gu"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "げ",
+    "furigana": ["げ"],
+    "english": ["ge"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ご",
+    "furigana": ["ご"],
+    "english": ["go"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ざ",
+    "furigana": ["ざ"],
+    "english": ["za"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "じ",
+    "furigana": ["じ"],
+    "english": ["ji"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ず",
+    "furigana": ["ず"],
+    "english": ["zu"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ぜ",
+    "furigana": ["ぜ"],
+    "english": ["ze"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ぞ",
+    "furigana": ["ぞ"],
+    "english": ["zo"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "だ",
+    "furigana": ["だ"],
+    "english": ["da"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ぢ",
+    "furigana": ["ぢ"],
+    "english": ["ji"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "づ",
+    "furigana": ["づ"],
+    "english": ["zu"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "で",
+    "furigana": ["で"],
+    "english": ["de"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ど",
+    "furigana": ["ど"],
+    "english": ["do"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ば",
+    "furigana": ["ば"],
+    "english": ["ba"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ぱ",
+    "furigana": ["ぱ"],
+    "english": ["pa"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "び",
+    "furigana": ["び"],
+    "english": ["bi"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ぴ",
+    "furigana": ["ぴ"],
+    "english": ["pi"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ぶ",
+    "furigana": ["ぶ"],
+    "english": ["bu"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ぷ",
+    "furigana": ["ぷ"],
+    "english": ["pu"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "べ",
+    "furigana": ["べ"],
+    "english": ["be"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ぺ",
+    "furigana": ["ぺ"],
+    "english": ["pe"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ぼ",
+    "furigana": ["ぼ"],
+    "english": ["bo"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ぽ",
+    "furigana": ["ぽ"],
+    "english": ["po"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "きゃ",
+    "furigana": ["きゃ"],
+    "english": ["kya"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "きゅ",
+    "furigana": ["きゅ"],
+    "english": ["kyu"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "きょ",
+    "furigana": ["きょ"],
+    "english": ["kyo"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ぎゃ",
+    "furigana": ["ぎゃ"],
+    "english": ["gya"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ぎゅ",
+    "furigana": ["ぎゅ"],
+    "english": ["gyu"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ぎょ",
+    "furigana": ["ぎょ"],
+    "english": ["gyo"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "しゃ",
+    "furigana": ["しゃ"],
+    "english": ["sha"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "しゅ",
+    "furigana": ["しゅ"],
+    "english": ["shu"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "しょ",
+    "furigana": ["しょ"],
+    "english": ["sho"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "じゃ",
+    "furigana": ["じゃ"],
+    "english": ["ja"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "じゅ",
+    "furigana": ["じゅ"],
+    "english": ["ju"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "じょ",
+    "furigana": ["じょ"],
+    "english": ["jo"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ちゃ",
+    "furigana": ["ちゃ"],
+    "english": ["cha"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ちゅ",
+    "furigana": ["ちゅ"],
+    "english": ["chu"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ちょ",
+    "furigana": ["ちょ"],
+    "english": ["cho"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ぢゃ",
+    "furigana": ["ぢゃ"],
+    "english": ["ja"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ぢゅ",
+    "furigana": ["ぢゅ"],
+    "english": ["ju"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ぢょ",
+    "furigana": ["ぢょ"],
+    "english": ["jo"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "にゃ",
+    "furigana": ["にゃ"],
+    "english": ["nya"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "にゅ",
+    "furigana": ["にゅ"],
+    "english": ["nyu"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "にょ",
+    "furigana": ["にょ"],
+    "english": ["nyo"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ひゃ",
+    "furigana": ["ひゃ"],
+    "english": ["hya"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ひゅ",
+    "furigana": ["ひゅ"],
+    "english": ["hyu"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ひょ",
+    "furigana": ["ひょ"],
+    "english": ["hyo"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "びゃ",
+    "furigana": ["びゃ"],
+    "english": ["bya"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "びゅ",
+    "furigana": ["びゅ"],
+    "english": ["byu"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "びょ",
+    "furigana": ["びょ"],
+    "english": ["byo"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ぴゃ",
+    "furigana": ["ぴゃ"],
+    "english": ["pya"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ぴゅ",
+    "furigana": ["ぴゅ"],
+    "english": ["pyu"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "ぴょ",
+    "furigana": ["ぴょ"],
+    "english": ["pyo"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "みゃ",
+    "furigana": ["みゃ"],
+    "english": ["mya"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "みゅ",
+    "furigana": ["みゅ"],
+    "english": ["myu"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "みょ",
+    "furigana": ["みょ"],
+    "english": ["myo"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "りゃ",
+    "furigana": ["りゃ"],
+    "english": ["rya"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "りゅ",
+    "furigana": ["りゅ"],
+    "english": ["ryu"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  },
+  {
+    "word": "りょ",
+    "furigana": ["りょ"],
+    "english": ["ryo"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 0
+  }
+]

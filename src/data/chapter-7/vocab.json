@@ -1,0 +1,559 @@
+[
+  {
+    "word": "家族",
+    "furigana": ["家[か] 族[ぞく]"],
+    "english": ["family"],
+    "mnemonics": [
+      "Think of 'kazoku' as 'ka-zone-cook.' Imagine your family cooking together in a cozy kitchen zone."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "おじいさん",
+    "furigana": ["おじいさん"],
+    "english": ["grandfather; old man"],
+    "mnemonics": [
+      "Sounds like 'Oh, gee, son!' Picture an old man saying this to his grandson."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "おばあさん",
+    "furigana": ["おばあさん"],
+    "english": ["grandmother; old woman"],
+    "mnemonics": [
+      "Sounds like 'Oh, bah, son!' Imagine a grandmother knitting and saying this."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "お兄さん",
+    "furigana": ["お 兄[にい]さん"],
+    "english": ["older brother"],
+    "mnemonics": [
+      "Sounds like 'Oh, knee, son!' Imagine an older brother who always kneeled down to tie your shoelaces."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "お姉さん",
+    "furigana": ["お 姉[ねえ]さん"],
+    "english": ["older sister"],
+    "mnemonics": [
+      "Sounds like 'Oh, neigh, son!' Imagine an older sister who loves horses and often mimics a horse's neigh."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "父",
+    "furigana": ["父[ちち]"],
+    "english": ["my father"],
+    "mnemonics": [
+      "'Chichi' sounds like 'chee-chee.' Picture your father playing a game of chess ('chee' for chess)."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "母",
+    "furigana": ["母[はは]"],
+    "english": ["my mother"],
+    "mnemonics": [
+      "Sounds like laughter 'ha-ha.' Remember your mother's laugh."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "兄",
+    "furigana": ["兄[あに]"],
+    "english": ["my older brother"],
+    "mnemonics": [
+      "Sounds like 'Ah, knee.' Imagine your older brother always hitting his knee on the table."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "姉",
+    "furigana": ["姉[あね]"],
+    "english": ["my older sister"],
+    "mnemonics": [
+      "Sounds like 'Ah, neh.' Imagine your older sister pondering and saying 'Ah, neh' when thinking."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "妹",
+    "furigana": ["妹[いもうと]"],
+    "english": ["younger sister"],
+    "mnemonics": [
+      "Sounds like 'E-moto.' Picture your younger sister riding an e-motorbike."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "弟",
+    "furigana": ["弟[おとうと]"],
+    "english": ["younger brother"],
+    "mnemonics": [
+      "Sounds like 'Oh, toe-toe.' Imagine your younger brother always stubbing his toe."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "兄弟",
+    "furigana": ["兄[きょう] 弟[だい]"],
+    "english": ["brothers and sisters"],
+    "mnemonics": [
+      "Think of 'kyo-die.' Picture siblings playing a video game together and saying, 'If you lose (die) in Kyoto...'"
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "男の人",
+    "furigana": ["男[おとこ]の 人[ひと]"],
+    "english": ["man"],
+    "mnemonics": [
+      "Sounds like 'Oh, toko no hito.' Imagine a man saying, 'Oh, I'm just a 'toko' (guy) in this place.'"
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "女の人",
+    "furigana": ["女[おんな]の 人[ひと]"],
+    "english": ["woman"],
+    "mnemonics": [
+      "Sounds like 'Oh, nonna hito.' Picture a woman saying, 'Oh, I'm nonna (not a) regular person.'"
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "会社",
+    "furigana": ["会[かい] 社[しゃ]"],
+    "english": ["company"],
+    "mnemonics": [
+      "Sounds like 'kai-sha.' Imagine a company on the coast (kai) near the sea."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "食堂",
+    "furigana": ["食[しょく] 堂[どう]"],
+    "english": ["cafeteria"],
+    "mnemonics": [
+      "Sounds like 'shoku-dough.' Picture a cafeteria where they always bake fresh dough."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "デパート",
+    "furigana": ["デパート"],
+    "english": ["department store"],
+    "mnemonics": [
+      "Sounds like 'depart.' Think of a place where you always depart with your money."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "可愛い",
+    "furigana": ["可 愛[かわい]い"],
+    "english": ["cute"],
+    "mnemonics": [
+      "Sounds like 'kawaii.' This is similar to the English word 'cawaii' for cute."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "親切",
+    "furigana": ["親 切[しんせつ]"],
+    "english": ["kind"],
+    "mnemonics": [
+      "Sounds like 'shin-sets.' Picture a kind person who always sets their heart (shin) on doing good."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "便利",
+    "furigana": ["便 利[べんり]"],
+    "english": ["convenient"],
+    "mnemonics": [
+      "Sounds like 'ben-ri.' Imagine Ben, who is always handy and convenient to have around."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "歌う",
+    "furigana": ["歌[うた]う"],
+    "english": ["to sing"],
+    "mnemonics": [
+      "Sounds like 'ooh-ta-oo.' Picture singing a song with 'ooh' sounds."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "被る",
+    "furigana": ["被[かぶ]る"],
+    "english": ["to put on a hat"],
+    "mnemonics": [
+      "Sounds like 'cab-ru.' Imagine putting on a hat before getting into a cab."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "履く",
+    "furigana": ["履[は]く"],
+    "english": ["to put on items below your waist"],
+    "mnemonics": [
+      "Sounds like 'huck.' Think of 'hucking' on your pants or shoes."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "知る",
+    "furigana": ["知[し]る"],
+    "english": ["to get to know"],
+    "mnemonics": [
+      "Sounds like 'sheer.' Picture getting to know something as clearly as seeing through sheer fabric."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "知っています",
+    "furigana": ["知[し]って います"],
+    "english": ["I know"],
+    "mnemonics": [
+      "Sounds like 'sheet-tea-mass.' Imagine confidently saying 'I know' as you sip a cup of tea."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "知りません",
+    "furigana": ["知[し]りません"],
+    "english": ["I do not know"],
+    "mnemonics": [
+      "Sounds like 'sheer-ma-sen.' Picture saying 'I don't know' with a sheer look of confusion."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "住む",
+    "furigana": ["住[す]む"],
+    "english": ["to live"],
+    "mnemonics": [
+      "Sounds like 'sum.' Think of where you live as the sum of your home life."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "働く",
+    "furigana": ["働[はたら]く"],
+    "english": ["to work"],
+    "mnemonics": [
+      "Sounds like 'ha-ta-laku.' Imagine working hard while saying 'Ha! Tackle this work!'"
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "太る",
+    "furigana": ["太[ふと]る"],
+    "english": ["to gain weight"],
+    "mnemonics": [
+      "Sounds like 'futo-ru.' Imagine gaining weight and saying 'Futo, I grew!'"
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "太っています",
+    "furigana": ["太[ふと]っています"],
+    "english": ["to be on the heavy side/overweight"],
+    "mnemonics": [
+      "Sounds like 'futo-tte-mass.' Picture someone who's heavy saying, 'Futo, I'm mass!'"
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "眼鏡を掛ける",
+    "furigana": ["眼鏡[めがね]を 掛[か]ける"],
+    "english": ["to put on glasses"],
+    "mnemonics": [
+      "Sounds like 'may-gah-neh-wo-kakeru.' Imagine putting on glasses to see the month of May clearly."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "着る",
+    "furigana": ["着[き]る"],
+    "english": ["to put on clothes above your waist"],
+    "mnemonics": [
+      "Sounds like 'keer.' Picture 'keering' a shirt over your head."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "痩せる",
+    "furigana": ["痩[や]せる"],
+    "english": ["to lose weight"],
+    "mnemonics": [
+      "Sounds like 'ya-sell.' Imagine losing weight and saying, 'Ya, I can sell my old clothes now!'"
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "痩せています",
+    "furigana": ["痩[や]せています"],
+    "english": ["to be thin"],
+    "mnemonics": [
+      "Sounds like 'ya-set-te-mass.' Picture a thin person saying, 'Ya, I'm set with this mass!'"
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "結婚する",
+    "furigana": ["結婚[けっこん]する"],
+    "english": ["to get married"],
+    "mnemonics": [
+      "Sounds like 'kett-kon-suru.' Picture getting married and setting a 'ket' (contract) to connect lives."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "何も",
+    "furigana": ["何[なに]も + negative"],
+    "english": ["not...anything"],
+    "mnemonics": ["Sounds like 'nani mo.' Picture saying 'Nani? Mo nothing?'"],
+    "chapter": 7
+  },
+  {
+    "word": "～人",
+    "furigana": ["～人[にん]"],
+    "english": ["counter for people"],
+    "mnemonics": [
+      "Sounds like 'neen.' Imagine counting people and saying 'One neen, two neen...'"
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "一人",
+    "furigana": ["一[ひと]人[り]"],
+    "english": ["one person"],
+    "mnemonics": [
+      "Sounds like 'hitori.' Picture being alone and saying 'Hi, I'm just one here.'"
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "二人",
+    "furigana": ["二[ふた]人[り]"],
+    "english": ["two people"],
+    "mnemonics": [
+      "Sounds like 'futari.' Think of 'two' (fu-ta-ri) people standing together."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "別に",
+    "furigana": ["別[べつ]に + negative"],
+    "english": ["nothing in particular"],
+    "mnemonics": [
+      "Sounds like 'bet-su-ni.' Imagine shrugging and saying 'Bet, it's nothing special.'"
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "勿論",
+    "furigana": ["勿論[もちろん]"],
+    "english": ["of course"],
+    "mnemonics": [
+      "Sounds like 'mochi-ron.' Picture saying 'Of course!' while eating mochi."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "はく",
+    "furigana": ["はく"],
+    "english": ["to put on items below your waist"],
+    "mnemonics": [
+      "Sounds like 'huck.' Think of 'hucking' on your pants or shoes."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "～が",
+    "furigana": ["～が"],
+    "english": ["...but"],
+    "mnemonics": [
+      "Think of it as a pause, like saying 'ga...' when you're about to say 'but...'"
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "よかったら",
+    "furigana": ["よかったら"],
+    "english": ["if you like"],
+    "mnemonics": [
+      "Sounds like 'yokatta-ra.' Imagine saying, 'If you like (yokatta), then ra (come on)!'"
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "鼻",
+    "furigana": ["鼻[はな]"],
+    "english": ["nose"],
+    "mnemonics": [
+      "Sounds like 'Hana.' Imagine a flower ('hana' in Japanese) near your nose."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "耳",
+    "furigana": ["耳[みみ]"],
+    "english": ["ear"],
+    "mnemonics": [
+      "Sounds like 'me-me.' Think of someone saying 'Listen to me' with their ears."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "歯",
+    "furigana": ["歯[は]"],
+    "english": ["teeth"],
+    "mnemonics": [
+      "Sounds like 'ha.' Imagine laughing 'ha-ha' and showing your teeth."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "眉毛",
+    "furigana": ["眉[まゆ] 毛[げ]"],
+    "english": ["eyebrows"],
+    "mnemonics": [
+      "Sounds like 'Mayu-ge.' Picture drawing your eyebrows carefully in May."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "髪",
+    "furigana": ["髪[かみ]"],
+    "english": ["hair"],
+    "mnemonics": [
+      "Think of 'kami' as in origami. Picture folding origami with hair-like delicacy."
+    ],
+    "chapter": 7
+  },
+
+  {
+    "word": "口",
+    "furigana": ["口[くち]"],
+    "english": ["mouth"],
+    "mnemonics": [
+      "Sounds like 'coochie.' Remember by thinking of a baby's coochie-coo, often said while touching their mouth."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "目",
+    "furigana": ["目[め]"],
+    "english": ["eye"],
+    "mnemonics": [
+      "Sounds like 'May.' Think of your eyes always brightening up in the month of May."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "頭",
+    "furigana": ["頭[あたま]"],
+    "english": ["head"],
+    "mnemonics": [
+      "Sounds like 'a-tama.' Imagine a head ('atama') adorned with a crown."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "顔",
+    "furigana": ["顔[かお]"],
+    "english": ["face"],
+    "mnemonics": [
+      "Sounds like 'cow-o.' Picture a face with the calmness of a cow's expression."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "首",
+    "furigana": ["首[くび]"],
+    "english": ["neck"],
+    "mnemonics": [
+      "Think of 'kubi' as in 'cubicle.' Imagine stretching your neck looking over cubicle walls."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "肩",
+    "furigana": ["肩[かた]"],
+    "english": ["shoulder"],
+    "mnemonics": [
+      "Sounds like 'cutter.' Imagine a strong shoulder cutting through the water in swimming."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "手",
+    "furigana": ["手[て]"],
+    "english": ["hand"],
+    "mnemonics": [
+      "'Te' as in 'tea.' Picture yourself delicately holding a tea cup in your hand."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "指",
+    "furigana": ["指[ゆび]"],
+    "english": ["finger"],
+    "mnemonics": [
+      "Sounds like 'you-be.' Think of pointing a finger and saying, 'You be careful.'"
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "胸",
+    "furigana": ["胸[むね]"],
+    "english": ["chest"],
+    "mnemonics": [
+      "Sounds like 'mooneh.' Picture a treasure chest, as valuable as the moon."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "背中",
+    "furigana": ["背[せ] 中[なか]"],
+    "english": ["back"],
+    "mnemonics": [
+      "Sounds like 'say-naka.' Imagine someone saying 'Naka' (middle) while pointing at their back."
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "おなか",
+    "furigana": ["おなか"],
+    "english": ["stomach"],
+    "mnemonics": [
+      "Sounds like 'Oh! Naka.' Picture feeling a sudden stomachache and exclaiming 'Oh, naka (inside)!'"
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "尾尻",
+    "furigana": ["尾[お] 尻[しり]"],
+    "english": ["buttocks"],
+    "mnemonics": [
+      "Sounds like 'oh-she-ree.' Think of sitting down after a long day saying, 'Oh, finally!'"
+    ],
+    "chapter": 7
+  },
+  {
+    "word": "足",
+    "furigana": ["足[あし]"],
+    "english": ["leg/foot"],
+    "mnemonics": [
+      "Sounds like 'Ah-she.' Imagine stepping into a relaxing bath and saying 'Ah, relief!'"
+    ],
+    "chapter": 7
+  }
+]

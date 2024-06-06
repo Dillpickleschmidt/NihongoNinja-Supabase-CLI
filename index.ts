@@ -3,7 +3,7 @@
 /*
 This program reads a JSON file containing vocabulary data and inserts or updates the data into a Supabase database.
 If a word already exists, the program will prompt the user to either create a new entry or update the existing entry.
-If they choose to update an existing word, prompt them to select which matched existing word(s) to update.
+If they choose to update an existing word, prompt them to select which matched entry to update.
 If the word doesn't already exist or the user chooses to create a new word when an existing word is found, insert a new word.
 Also, the videos property should be handled differently since there's a videos table.
 */
@@ -62,62 +62,52 @@ if (existingWords.length > 0) {
       (word) => JSON.stringify(word.english) !== JSON.stringify(entry.english)
     )
 
-    if (differentEnglishEntries.length > 0) {
-      const action = await select({
-        message: `The word ${entry.word} already exists in the database with different English values.`,
-        choices: [
-          { name: "Create new entry", value: "create" },
-          { name: "Update entry", value: "update" },
-        ],
-        loop: false,
-      })
-
-      if (action === "update") {
-        const wordSelection = await select({
-          message: `Which word do you want to update?`,
+    if (matchingEntries.length > 0) {
+      if (differentEnglishEntries.length > 0) {
+        const action = await select({
+          message: `The word ${entry.word} already exists in the database with different English values.`,
           choices: [
-            new Separator(),
-            ...differentEnglishEntries.map((word) => ({
-              name: `${word.word} - ${word.english.join(", ")}`,
-              value: word.id,
-            })),
+            { name: "Create new entry", value: "create" },
+            { name: "Update entry", value: "update" },
           ],
           loop: false,
         })
+
+        if (action === "update") {
+          const wordSelection = await select({
+            message: `Which word do you want to update?`,
+            choices: [
+              new Separator(),
+              ...matchingEntries.map((word) => ({
+                name: `${word.word} - ${word.english.join(", ")}`,
+                value: word.id,
+              })),
+            ],
+            loop: false,
+          })
+          idsToUpdate.push(wordSelection)
+        }
+      } else {
+        // Default to updating if English values are the same
+        const wordSelection = matchingEntries[0].id
         idsToUpdate.push(wordSelection)
       }
-    } else {
-      // Default to updating if English values are the same
-      const wordSelection = matchingEntries[0].id
-      idsToUpdate.push(wordSelection)
     }
   }
 }
 
 // Split the existing words into two arrays: one for words to insert and one for words to update
-const existingInsertWords: (VocabEntry & { id: number })[] =
-  existingWords.filter((entry) => !idsToUpdate.includes(entry.id))
-const existingUpdateWords: (VocabEntry & { id: number })[] =
-  existingWords.filter((entry) => idsToUpdate.includes(entry.id))
-
-// Match the filtered data with to the existing insert and update words
 const wordsToInsert: (VocabEntry & { id?: number })[] = []
-const wordsToUpdate: (VocabEntry & { id?: number })[] = []
+const wordsToUpdate: (VocabEntry & { id: number })[] = []
 
 for (const entry of filteredData) {
-  const existingInsertWord = existingInsertWords.find(
-    (word) => word.word === entry.word
-  )
-  const existingUpdateWord = existingUpdateWords.find(
-    (word) => word.word === entry.word
+  const existingUpdateWord = existingWords.find(
+    (word) => word.word === entry.word && idsToUpdate.includes(word.id)
   )
 
-  if (existingInsertWord) {
-    wordsToInsert.push({ ...entry, id: existingInsertWord.id })
-  } else if (existingUpdateWord) {
+  if (existingUpdateWord) {
     wordsToUpdate.push({ ...entry, id: existingUpdateWord.id })
   } else {
-    // If the word doesn't exist in the database
     wordsToInsert.push(entry)
   }
 }
@@ -189,10 +179,10 @@ async function insertVideos(entries: (VocabEntry & { id?: number })[]) {
 }
 
 // Update existing vocabulary data
-async function updateVocabulary(entries: (VocabEntry & { id?: number })[]) {
-  const entriesWithoutVideos = entries.map(({ videos, ...entry }) => entry)
-  for (const entry of entriesWithoutVideos) {
+async function updateVocabulary(entries: (VocabEntry & { id: number })[]) {
+  for (const entry of entries) {
     const { id, ...entryWithoutId } = entry
+    console.log(`Updating vocabulary entry with id: ${id}`)
     const { data, error } = await supabase
       .from("vocabulary")
       .update(entryWithoutId)
@@ -207,16 +197,15 @@ async function updateVocabulary(entries: (VocabEntry & { id?: number })[]) {
 }
 
 // Update existing video data
-async function updateVideos(entries: (VocabEntry & { id?: number })[]) {
+async function updateVideos(entries: (VocabEntry & { id: number })[]) {
   for (const entry of entries) {
     const { id, videos } = entry
-    const videoEntries =
-      videos?.map((video) => ({
+    if (videos) {
+      const videoEntries = videos.map((video) => ({
         word_id: id,
         ...video,
-      })) || []
-
-    if (videoEntries.length > 0) {
+      }))
+      console.log(`Updating videos for word_id: ${id}`)
       const { data, error } = await supabase
         .from("videos")
         .upsert(videoEntries, { onConflict: "word_id, src" })
