@@ -3,7 +3,8 @@
   "module": "index.ts",
   "type": "module",
   "bin": {
-    "nihongo-cli": "./index.ts"
+    "nihongo-cli": "./index.ts",
+    "nihongo-practice": "./practice_modules.ts"
   },
   "nihongoninja-supabase-cli": "link:nihongoninja-supabase-cli",
   "devDependencies": {
