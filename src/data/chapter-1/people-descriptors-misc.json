@@ -1,0 +1,113 @@
+[
+  {
+    "word": "わたし",
+    "furigana": ["わたし"],
+    "english": ["I"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "ともだち",
+    "furigana": ["ともだち"],
+    "english": ["friend"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "～さん",
+    "furigana": ["～さん"],
+    "english": ["Mr.", "Mrs.", "Ms."],
+    "mnemonics": [],
+    "info": [
+      "To be used with first & last names. (In class, we use last names to address each other.)",
+      "NEVER use this when referring yourself."
+    ],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "～じん",
+    "furigana": ["～じん"],
+    "english": ["...people"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "にほんじん",
+    "furigana": ["にほんじん"],
+    "english": ["Japanese people"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "ばんごう",
+    "furigana": ["ばんごう"],
+    "english": ["number"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "なまえ",
+    "furigana": ["なまえ"],
+    "english": ["name"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "なん/なに",
+    "furigana": ["なん/なに"],
+    "english": ["what"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "あのう",
+    "furigana": ["あのう"],
+    "english": ["um..."],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "はい",
+    "furigana": ["はい"],
+    "english": ["yes"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "そうです",
+    "furigana": ["そうです"],
+    "english": ["That's right."],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "そうですか",
+    "furigana": ["そうですか"],
+    "english": ["I see", "Is that so?"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  }
+]

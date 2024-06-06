@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@inquirer/checkbox": "^2.3.5",
+    "@inquirer/confirm": "^3.1.9",
     "@inquirer/input": "^2.1.9",
     "@inquirer/select": "^2.3.5",
     "@supabase/supabase-js": "^2.43.4",

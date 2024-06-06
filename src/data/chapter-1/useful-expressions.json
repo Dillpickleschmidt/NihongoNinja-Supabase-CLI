@@ -1,0 +1,211 @@
+[
+  {
+    "word": "わかりましたか。",
+    "furigana": ["わかりましたか。"],
+    "english": ["Do you understand?"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "わかりました。",
+    "furigana": ["わかりました。"],
+    "english": ["I understand.", "I understood."],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "わかりません。",
+    "furigana": ["わかりません。"],
+    "english": ["I don't understand.", "I don't know."],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "ゆっくりいってください。",
+    "furigana": ["ゆっくりいってください。"],
+    "english": ["Please say it slowly."],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "もういちどいってください。",
+    "furigana": ["もういちどいってください。"],
+    "english": ["Please say it again."],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "ちょっとまってください。",
+    "furigana": ["ちょっとまってください。"],
+    "english": ["Please wait for a while."],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "きいてください。",
+    "furigana": ["きいてください。"],
+    "english": ["Please listen.", "Please ask."],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "１０ぺージをみてください。",
+    "furigana": ["１０ぺージをみてください。"],
+    "english": ["Please look at page 10."],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "はじめまして。",
+    "furigana": ["はじめまして。"],
+    "english": ["How do you do.", "Nice to meet you."],
+    "mnemonics": [],
+    "info": ["Literally, 'for the first time.'"],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "[your name]です。",
+    "furigana": ["[your name]です。"],
+    "english": ["I am [your name]."],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "しゅっしんは[your hometown]です。",
+    "furigana": ["しゅっしんは[your hometown]です。"],
+    "english": ["I came from [your hometown]."],
+    "mnemonics": [],
+    "info": ["Shusshin is a noun meaning 'coming from.'"],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "どうぞよろしくおねがいします。",
+    "furigana": ["どうぞよろしくおねがいします。"],
+    "english": ["Very pleased to meet you."],
+    "mnemonics": [],
+    "info": [
+      "Literally, '(I am) requesting your favorable consideration from now on.'"
+    ],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "おなまえは？",
+    "furigana": ["おなまえは？"],
+    "english": ["What is your name?"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "せんせい",
+    "furigana": ["せんせい"],
+    "english": ["Teacher", "Professor", "Dr."],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "あのう、すみません。",
+    "furigana": ["あのう、すみません。"],
+    "english": ["Ummm, excuse me"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "しつもんがあります。",
+    "furigana": ["しつもんがあります。"],
+    "english": ["I have a question."],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "もういちどおねがいします。",
+    "furigana": ["もういちどおねがいします。"],
+    "english": ["One more time, please."],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "もうちょっとゆっくりおねがいします。",
+    "furigana": ["もうちょっとゆっくりおねがいします。"],
+    "english": ["A little slower, please."],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "どうぞ。",
+    "furigana": ["どうぞ。"],
+    "english": ["Please", "Please go ahead", "Here it is"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "どうもありがとうございます。",
+    "furigana": ["どうもありがとうございます。"],
+    "english": ["Thank you very much."],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "しつれいします。",
+    "furigana": ["しつれいします。"],
+    "english": ["Excuse me", "Please excuse my interrupting you"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "かいてください。",
+    "furigana": ["かいてください。"],
+    "english": ["Please write."],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "すみませんが、えいごでいいですか。",
+    "furigana": ["すみませんが、えいごでいいですか。"],
+    "english": ["Excuse me but is English okay?"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  }
+]

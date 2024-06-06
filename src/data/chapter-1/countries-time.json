@@ -1,0 +1,157 @@
+[
+  {
+    "word": "いま",
+    "furigana": ["いま"],
+    "english": ["now", "right now"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "ごぜん",
+    "furigana": ["ごぜん"],
+    "english": ["A.M.", "morning"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "ごご",
+    "furigana": ["ごご"],
+    "english": ["P.M.", "afternoon"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "～じ",
+    "furigana": ["～じ"],
+    "english": ["...o'clock", "...hour"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "いちじ",
+    "furigana": ["いちじ"],
+    "english": ["one o'clock", "1:00"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "はん",
+    "furigana": ["はん"],
+    "english": ["half", "half past"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "にじはん",
+    "furigana": ["にじはん"],
+    "english": ["half past two", "2:30"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "にほん",
+    "furigana": ["にほん"],
+    "english": ["Japan"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "アメリカ",
+    "furigana": ["アメリカ"],
+    "english": ["America", "USA"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "イギリス",
+    "furigana": ["イギリス"],
+    "english": ["UK", "Britain", "England"],
+    "mnemonics": [],
+    "info": [
+      "Can refer to the United Kingdom (UK), Britain, or England in everyday use."
+    ],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "オーストラリア",
+    "furigana": ["オーストラリア"],
+    "english": ["Australia"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "かんこく",
+    "furigana": ["かんこく"],
+    "english": ["Korea", "South Korea"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "カナダ",
+    "furigana": ["カナダ"],
+    "english": ["Canada"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "ちゅうごく",
+    "furigana": ["ちゅうごく"],
+    "english": ["China"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "インド",
+    "furigana": ["インド"],
+    "english": ["India"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "エジプト",
+    "furigana": ["エジプト"],
+    "english": ["Egypt"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "フィリピン",
+    "furigana": ["フィリピン"],
+    "english": ["Philippines"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  }
+]

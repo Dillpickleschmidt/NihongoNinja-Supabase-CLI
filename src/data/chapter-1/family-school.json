@@ -1,0 +1,165 @@
+[
+  {
+    "word": "おかあさん",
+    "furigana": ["おかあさん"],
+    "english": ["mother"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "おとうさん",
+    "furigana": ["おとうさん"],
+    "english": ["father"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "おねえさん",
+    "furigana": ["おねえさん"],
+    "english": ["older sister"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "おにいさん",
+    "furigana": ["おにいさん"],
+    "english": ["older brother"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "いもうと",
+    "furigana": ["いもうと"],
+    "english": ["younger sister"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "おとうと",
+    "furigana": ["おとうと"],
+    "english": ["younger brother"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+
+  {
+    "word": "おじいさん",
+    "furigana": ["おじいさん"],
+    "english": ["grandfather"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "おばあさん",
+    "furigana": ["おばあさん"],
+    "english": ["grandmother"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "おばさん",
+    "furigana": ["おばさん"],
+    "english": ["aunt"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "おじさん",
+    "furigana": ["おじさん"],
+    "english": ["uncle"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "だいがく",
+    "furigana": ["だいがく"],
+    "english": ["college", "university"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "こうこう",
+    "furigana": ["こうこう"],
+    "english": ["high school"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "がくせい",
+    "furigana": ["がくせい"],
+    "english": ["student"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "だいがくせい",
+    "furigana": ["だいがくせい"],
+    "english": ["college student"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "りゅうがくせい",
+    "furigana": ["りゅうがくせい"],
+    "english": ["international student"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "～ねんせい",
+    "furigana": ["～ねんせい"],
+    "english": ["...year student"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "いちねんせい",
+    "furigana": ["いちねんせい"],
+    "english": ["first-year student"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "せんこう",
+    "furigana": ["せんこう"],
+    "english": ["major"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  }
+]

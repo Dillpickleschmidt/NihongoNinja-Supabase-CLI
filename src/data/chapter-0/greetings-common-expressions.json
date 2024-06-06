@@ -254,14 +254,28 @@
     "videos": []
   },
   {
-    "word": "よろしく おねがいします",
-    "furigana": ["よろしく おねがいします"],
+    "word": "よろしくおねがいします",
+    "furigana": ["よろしくおねがいします"],
     "english": ["Please be kind to me"],
     "mnemonics": [],
     "info": [
       "This one's tricky to translate, but it's a mix of 'Please be kind to me,' 'Let's get along,' and 'I'm counting on you.'",
       "It's the ultimate ice-breaker and friend-maker."
     ],
+    "chapter": 0,
+    "videos": []
+  },
+  {
+    "word": "ようこそ",
+    "furigana": ["ようこそ"],
+    "english": ["Welcome"],
+    "mnemonics": [],
+    "info": [
+      "This is a warm and welcoming greeting, equivalent to 'Welcome' in English.",
+      "It's used when greeting someone arriving at a place, such as a home, store, or event.",
+      "You'll often see and hear 'ようこそ' on signs, in hospitality settings, or during events."
+    ],
+    "example_sentences": [],
     "chapter": 0,
     "videos": []
   }

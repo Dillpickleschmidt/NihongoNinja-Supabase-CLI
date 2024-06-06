@@ -10,6 +10,7 @@ export async function readJSONFile(
   return JSON.parse(data)
 }
 
+// Filters the data to only include the selected options
 export function filterData(
   data: VocabEntry[],
   selectedOptions: (keyof VocabEntry)[]
@@ -25,4 +26,11 @@ export function filterData(
 
     return filteredEntry as VocabEntry
   })
+}
+
+// Extracts the word property from each entry
+export function extractWordsFromJSON(
+  data: Record<string, VocabEntry>
+): string[] {
+  return Object.values(data).map((entry) => entry.word)
 }

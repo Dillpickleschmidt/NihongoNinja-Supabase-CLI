@@ -2,7 +2,10 @@
 
 import createSupabase from "@/components/createSupabase"
 import type { VocabEntry } from "@/types/vocab"
+import input from "@inquirer/input"
 import select from "@inquirer/select"
+import confirm from "@inquirer/confirm"
+import { extractWordsFromJSON, readJSONFile } from "@/components/handleJSON"
 
 // Create a Supabase client
 const supabase = createSupabase()
@@ -92,57 +95,32 @@ async function upsertPracticeModules(
   }
 }
 
-// Usage
-const url_path = "chapter-0/practice-hiragana"
-const practice_words = [
-  "あ",
-  "い",
-  "う",
-  "え",
-  "お",
-  "か",
-  "き",
-  "く",
-  "け",
-  "こ",
-  "さ",
-  "し",
-  "す",
-  "せ",
-  "そ",
-  "た",
-  "ち",
-  "つ",
-  "て",
-  "と",
-  "な",
-  "に",
-  "ぬ",
-  "ね",
-  "の",
-  "は",
-  "ひ",
-  "ふ",
-  "へ",
-  "ほ",
-  "ま",
-  "み",
-  "む",
-  "め",
-  "も",
-  "や",
-  "ゆ",
-  "よ",
-  "ら",
-  "り",
-  "る",
-  "れ",
-  "ろ",
-  "わ",
-  "を",
-  "ん",
-]
+async function main() {
+  // Step 1: Prompt for the JSON file path
+  const getJsonFilePath = await input({
+    message: "Enter the path to the JSON file",
+    default: "chapter-0/vocab.json",
+  })
+  const jsonFilePath = "./src/data/" + getJsonFilePath
+  // remove the .json extension
+  const slug = getJsonFilePath.replace(".json", "")
 
-upsertPracticeModules(url_path, practice_words).then(() => {
-  console.log("Upsert operation completed.")
-})
+  // Step 2: Read the JSON file
+  const jsonData = await readJSONFile(jsonFilePath)
+  const words = extractWordsFromJSON(jsonData)
+
+  const confirmation = await confirm({
+    message: `Are you sure you want to upsert practice modules with \n\npath: "${slug}" \nwords: ${words.join(
+      ", "
+    )}?\n`,
+  })
+
+  if (confirmation) {
+    await upsertPracticeModules(slug, words)
+    console.log("Upsert operation completed.")
+  } else {
+    console.log("Operation canceled.")
+  }
+}
+
+main()
