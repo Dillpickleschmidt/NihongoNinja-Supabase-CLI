@@ -1,120 +1,158 @@
 [
   {
     "word": "わかりましたか。",
-    "furigana": ["わかりましたか。"],
+    "furigana": ["わかりましたか"],
     "english": ["Do you understand?"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "Use this phrase to confirm if someone understands what you have explained.",
+      "It is often used by teachers or in any instructional context.",
+      "The particle 'か' at the end of the sentence turns it into a question (more on this later)."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
   {
     "word": "わかりました。",
-    "furigana": ["わかりました。"],
+    "furigana": ["わかりました"],
     "english": ["I understand.", "I understood."],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "This phrase is used to confirm that you have understood something.",
+      "It can also mean that you have understood a past situation, depending on the context."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
   {
     "word": "わかりません。",
-    "furigana": ["わかりません。"],
+    "furigana": ["わかりません"],
     "english": ["I don't understand.", "I don't know."],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "Use this phrase to indicate that you do not know/understand something."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
   {
     "word": "ゆっくりいってください。",
-    "furigana": ["ゆっくりいってください。"],
+    "furigana": ["ゆっくりいってください"],
     "english": ["Please say it slowly."],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "Use this phrase to ask someone to speak more slowly.",
+      "Helpful in situations where you are trying to catch every word."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
   {
     "word": "もういちどいってください。",
-    "furigana": ["もういちどいってください。"],
+    "furigana": ["もういちどいってください"],
     "english": ["Please say it again."],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "Use this phrase to ask someone to repeat what they said.",
+      "Very useful in conversation practice or when you missed part of what was said."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
   {
     "word": "ちょっとまってください。",
-    "furigana": ["ちょっとまってください。"],
+    "furigana": ["ちょっとまってください"],
     "english": ["Please wait for a while."],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "Use this phrase to ask someone to wait.",
+      "'ちょっと' means 'a little' and 'まってください' means 'please wait'.",
+      "Common in everyday conversation when you need a moment."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
   {
     "word": "きいてください。",
-    "furigana": ["きいてください。"],
+    "furigana": ["きいてください"],
     "english": ["Please listen.", "Please ask."],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "Depending on the context, 'きいてください' can mean 'please listen' or 'please ask'.",
+      "Common in classroom settings or when giving instructions."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
   {
     "word": "１０ぺージをみてください。",
-    "furigana": ["１０ぺージをみてください。"],
+    "furigana": ["じゅっぺーじをみてください"],
     "english": ["Please look at page 10."],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "This phrase is used to direct someone to look at a specific page in a book.",
+      "'ぺージ' (pēji)—means 'page' and 'みてください' means 'please look'."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
   {
     "word": "はじめまして。",
-    "furigana": ["はじめまして。"],
+    "furigana": ["はじめまして"],
     "english": ["How do you do.", "Nice to meet you."],
     "mnemonics": [],
-    "info": ["Literally, 'for the first time.'"],
+    "info": [
+      "A standard greeting when meeting someone for the first time.",
+      "It is often followed by introducing oneself."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
   {
     "word": "[your name]です。",
-    "furigana": ["[your name]です。"],
+    "furigana": ["[your name]です"],
     "english": ["I am [your name]."],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "This is the standard way to introduce yourself by stating your name.",
+      "'です' is a polite way to end a sentence."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
   {
     "word": "しゅっしんは[your hometown]です。",
-    "furigana": ["しゅっしんは[your hometown]です。"],
+    "furigana": ["しゅっしんは[your hometown]です"],
     "english": ["I came from [your hometown]."],
     "mnemonics": [],
-    "info": ["Shusshin is a noun meaning 'coming from.'"],
+    "info": [
+      "Use this phrase to tell someone where you are from.",
+      "'しゅっしん' means 'hometown' or 'place of origin'."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
   {
     "word": "どうぞよろしくおねがいします。",
-    "furigana": ["どうぞよろしくおねがいします。"],
+    "furigana": ["どうぞよろしくおねがいします"],
     "english": ["Very pleased to meet you."],
     "mnemonics": [],
     "info": [
-      "Literally, '(I am) requesting your favorable consideration from now on.'"
+      "A polite phrase used at the end of an introduction.",
+      "It expresses a desire to have a good relationship or to be in good terms."
     ],
     "example_sentences": [],
     "chapter": 1
   },
   {
     "word": "おなまえは？",
-    "furigana": ["おなまえは？"],
+    "furigana": ["おなまえは"],
     "english": ["What is your name?"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "Use this phrase to ask someone their name.",
+      "'お' is a polite prefix, 'なまえ' means 'name', and 'は' is a topic marker (more on this later)."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
@@ -123,88 +161,106 @@
     "furigana": ["せんせい"],
     "english": ["Teacher", "Professor", "Dr."],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "A title used to address teachers, professors, or doctors.",
+      "It shows respect for the person's expertise or position."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
   {
     "word": "あのう、すみません。",
-    "furigana": ["あのう、すみません。"],
+    "furigana": ["あのう、すみません"],
     "english": ["Ummm, excuse me"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "Use this phrase to politely get someone's attention.",
+      "'あのう' is a filler word similar to 'um' or 'uh' in English."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
   {
     "word": "しつもんがあります。",
-    "furigana": ["しつもんがあります。"],
+    "furigana": ["しつもんがあります"],
     "english": ["I have a question."],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "Use this phrase to indicate that you have a question.",
+      "'しつもん' means 'question', and 'あります' means 'there is' or 'I have'."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
   {
     "word": "もういちどおねがいします。",
-    "furigana": ["もういちどおねがいします。"],
+    "furigana": ["もういちどおねがいします"],
     "english": ["One more time, please."],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "A polite way to ask someone to repeat something.",
+      "'もういちど' means 'once more' and 'おねがいします' is a polite way to ask for something."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
   {
     "word": "もうちょっとゆっくりおねがいします。",
-    "furigana": ["もうちょっとゆっくりおねがいします。"],
+    "furigana": ["もうちょっとゆっくりおねがいします"],
     "english": ["A little slower, please."],
     "mnemonics": [],
-    "info": [],
-    "example_sentences": [],
-    "chapter": 1
-  },
-  {
-    "word": "どうぞ。",
-    "furigana": ["どうぞ。"],
-    "english": ["Please", "Please go ahead", "Here it is"],
-    "mnemonics": [],
-    "info": [],
+    "info": [
+      "Use this phrase to ask someone to speak a little slower.",
+      "'もうちょっと' means 'a little more', 'ゆっくり' means 'slowly', and 'おねがいします' is a polite request."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
   {
     "word": "どうもありがとうございます。",
-    "furigana": ["どうもありがとうございます。"],
+    "furigana": ["どうもありがとうございます"],
     "english": ["Thank you very much."],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "A very polite and formal way to say thank you.",
+      "'どうも' adds emphasis, making it stronger than just 'ありがとうございます'."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
   {
     "word": "しつれいします。",
-    "furigana": ["しつれいします。"],
+    "furigana": ["しつれいします"],
     "english": ["Excuse me", "Please excuse my interrupting you"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "Use this phrase to excuse yourself or to politely interrupt someone.",
+      "'しつれい' means 'rudeness' and 'します' means 'to do', so it literally means 'I am being rude'."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
   {
     "word": "かいてください。",
-    "furigana": ["かいてください。"],
+    "furigana": ["かいてください"],
     "english": ["Please write."],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "Use this phrase to ask someone to write something.",
+      "'かいて' is the te-form of 'かく' (to write) and 'ください' is a polite request."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
   {
     "word": "すみませんが、えいごでいいですか。",
-    "furigana": ["すみませんが、えいごでいいですか。"],
+    "furigana": ["すみませんが、えいごでいいですか"],
     "english": ["Excuse me but is English okay?"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "Use this phrase to ask if it is okay to speak in English.",
+      "'すみませんが' means 'excuse me but', 'えいご' means 'English', and 'でいいですか' means 'is it okay?'."
+    ],
     "example_sentences": [],
     "chapter": 1
   }

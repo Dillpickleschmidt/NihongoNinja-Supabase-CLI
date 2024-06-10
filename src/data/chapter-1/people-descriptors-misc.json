@@ -4,7 +4,11 @@
     "furigana": ["わたし"],
     "english": ["I"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "'わたし' is the standard way to say 'I' or 'me' in Japanese.",
+      "It is gender-neutral and can be used in both formal and informal contexts.",
+      "Men could use 'ぼく' instead, and might even prefer 'おれ' in informal settings."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
@@ -13,7 +17,11 @@
     "furigana": ["ともだち"],
     "english": ["friend"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "'ともだち' means 'friend' in Japanese.",
+      "It can refer to both male and female friends.",
+      "The term does not indicate the level of closeness of the friendship."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
@@ -23,8 +31,11 @@
     "english": ["Mr.", "Mrs.", "Ms."],
     "mnemonics": [],
     "info": [
-      "To be used with first & last names. (In class, we use last names to address each other.)",
-      "NEVER use this when referring yourself."
+      "'～さん' is a polite title used after someone's name.",
+      "It is similar to Mr., Mrs., or Ms. in English.",
+      "It can be used with both first and last names, but in more formal or unfamiliar contexts, it is common to use it with last names. ",
+      "You should refer to everyone with '～さん' until you are told otherwise, as it ensures politeness and respect, which is a fundamental aspect of Japanese culture and differs significantly from Western norms.",
+      "NEVER use 'さん' when referring to yourself. It is strictly used to address or refer to others. Using ～さん for oneself is considered overly self-important and is culturally inappropriate."
     ],
     "example_sentences": [],
     "chapter": 1
@@ -34,16 +45,96 @@
     "furigana": ["～じん"],
     "english": ["...people"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "'～じん' is a suffix used to indicate nationality or ethnicity.",
+      "For example, 'にほんじん' means 'Japanese people/person'.",
+      "It is commonly used to describe the people of a particular country."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
   {
     "word": "にほんじん",
     "furigana": ["にほんじん"],
-    "english": ["Japanese people"],
+    "english": ["Japanese people", "Japanese person"],
     "mnemonics": [],
-    "info": [],
+    "info": ["It combines 'にほん' (Japan) and 'じん' (people)."],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "せんせい",
+    "furigana": ["せんせい"],
+    "english": ["Teacher", "Professor", "Dr."],
+    "mnemonics": [],
+    "info": [
+      "'せんせい' is a term used to address teachers, professors, doctors, or anyone who is a master in their field.",
+      "It is a respectful title and can be used by students to address their instructors.",
+      "It is also used as a suffix after a person's name, like '田中せんせい' (Dr. Tanaka)."
+    ],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "～さい",
+    "furigana": ["～さい"],
+    "english": ["...years old"],
+    "mnemonics": [],
+    "info": [
+      "'～さい' is a suffix used to indicate age in years.",
+      "It is added after numbers to denote someone's age.",
+      "For example, 'にじゅっさい' means '20 years old'."
+    ],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "～ご",
+    "furigana": ["～ご"],
+    "english": ["...language"],
+    "mnemonics": [],
+    "info": [
+      "'～ご' is a suffix used to indicate a language.",
+      "It is added after the name of a country to denote the language spoken there.",
+      "For example, 'にほんご' means 'Japanese language' and 'えいご' means 'English language'."
+    ],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "にほんご",
+    "furigana": ["にほんご"],
+    "english": ["Japanese language"],
+    "mnemonics": [],
+    "info": [
+      "'にほんご' means 'Japanese language'.",
+      "It combines 'にほん' (Japan) and 'ご' (language).",
+      "It is used to refer to the language spoken in Japan."
+    ],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "でんわ",
+    "furigana": ["でんわ"],
+    "english": ["telephone"],
+    "mnemonics": [],
+    "info": [
+      "'でんわ' means 'telephone' in Japanese.",
+      "It can refer to both the device itself and the act of making a phone call."
+    ],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "～ばん",
+    "furigana": ["～ばん"],
+    "english": ["...number"],
+    "mnemonics": [],
+    "info": [
+      "'～ばん' is a suffix used to indicate a number in a series.",
+      "It is added after numbers to denote the order or position, like 'いちばん' for 'number one'."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
@@ -52,7 +143,11 @@
     "furigana": ["ばんごう"],
     "english": ["number"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "'ばんごう' means 'number'.",
+      "It is used for phone numbers, room numbers, and other numerical identifiers.",
+      "For example, 'でんわばんごう' means 'phone number'."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
@@ -61,7 +156,23 @@
     "furigana": ["なまえ"],
     "english": ["name"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "'なまえ' means 'name'.",
+      "It can refer to both first names and last names.",
+      "For example, 'おなまえは？' means 'What is your name?'."
+    ],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "みんな",
+    "furigana": ["みんな"],
+    "english": ["everyone", "all"],
+    "mnemonics": [],
+    "info": [
+      "'みんな' means 'everyone' or 'all' in Japanese.",
+      "It is used to refer to a group of people inclusively."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
@@ -70,7 +181,11 @@
     "furigana": ["なん/なに"],
     "english": ["what"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "'なん' and 'なに' both mean 'what'.",
+      "'なん' is used before counters and 'なに' is used in other contexts.",
+      "For example, 'なんですか？' means 'What is it?' and 'なにをしますか？' means 'What will you do?'."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
@@ -79,7 +194,11 @@
     "furigana": ["あのう"],
     "english": ["um..."],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "'あのう' is a filler word used to pause or hesitate in speech.",
+      "It is similar to 'um' or 'uh' in English.",
+      "It is often used when the speaker is thinking or trying to get someone's attention politely."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
@@ -88,7 +207,11 @@
     "furigana": ["はい"],
     "english": ["yes"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "'はい' means 'yes' in Japanese.",
+      "It can also be used to show agreement or acknowledgment.",
+      "In some contexts, it can mean 'here' or 'present' when responding to a roll call."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
@@ -97,7 +220,10 @@
     "furigana": ["そうです"],
     "english": ["That's right."],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "'そうです' means 'That's right' or 'It is so'.",
+      "It is used to confirm information or agree with a statement."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
@@ -106,7 +232,26 @@
     "furigana": ["そうですか"],
     "english": ["I see", "Is that so?"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "'そうですか' means 'I see' or 'Is that so?'.",
+      "It is used to show understanding or surprise.",
+      "In Japanese culture, showing active listening and engagement is crucial for building rapport and trust.",
+      "Japanese speakers often use this phrase to show that they are listening and engaged in the conversation.",
+      "Japanese speakers frequently use interjections like 'そうですか,' 'うん,' 'はい,' 'へえ,' and 'なるほど' to show they are listening. These even have their own name—'aizuchi' and serve as verbal nods.",
+      "Aizuchi are used more often in Japanese than in English, reflecting a higher level of active listening and engagement. Try to use them in your own conversations"
+    ],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "しゅっしん",
+    "furigana": ["しゅっしん"],
+    "english": ["hometown", "place of origin"],
+    "mnemonics": [],
+    "info": [
+      "'しゅっしん' means 'hometown' or 'place of origin' in Japanese.",
+      "It is used to refer to the place where someone is from."
+    ],
     "example_sentences": [],
     "chapter": 1
   }

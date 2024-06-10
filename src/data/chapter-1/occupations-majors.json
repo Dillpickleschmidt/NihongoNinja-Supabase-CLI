@@ -4,16 +4,22 @@
     "furigana": ["いしゃ"],
     "english": ["doctor"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "It is used to refer to medical professionals who diagnose and treat illnesses.",
+      "The polite term 'おいしゃさん' (oishasan) is often used, especially by children."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
   {
     "word": "かいしゃいん",
     "furigana": ["かいしゃいん"],
-    "english": ["office worker"],
+    "english": ["office worker", "company employee"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "It is used to describe someone who works for a company.",
+      "The term combines 'かいしゃ' (company) and 'いん' (member)."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
@@ -22,7 +28,10 @@
     "furigana": ["かんごし"],
     "english": ["nurse"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "It refers to healthcare professionals who care for patients and assist doctors.",
+      "The term is gender-neutral, although 'かんごふ' (kangofu) is sometimes used specifically for female nurses."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
@@ -31,16 +40,22 @@
     "furigana": ["こうこうせい"],
     "english": ["high school student"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "It combines 'こうこう' (high school) and 'せい' (student).",
+      "High school in Japan typically includes grades 10 through 12."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
   {
     "word": "しゅふ",
     "furigana": ["しゅふ"],
-    "english": ["housewife"],
+    "english": ["housewife", "homemaker"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "It refers to someone who manages the household and takes care of the family.",
+      "The term can also apply to men who stay at home, although 'しゅふ' is traditionally used for women."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
@@ -49,7 +64,10 @@
     "furigana": ["だいがくいんせい"],
     "english": ["graduate student"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "It combines 'だいがく' (university) with 'いん' (graduate school) and 'せい' (student).",
+      "It refers to students pursuing advanced degrees beyond a bachelor's."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
@@ -58,16 +76,22 @@
     "furigana": ["べんごし"],
     "english": ["lawyer"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "It refers to legal professionals who represent clients in court and provide legal advice.",
+      "The term combines 'べんご' (defense) and 'し' (professional)."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
   {
     "word": "アジアけんきゅう",
-    "furigana": ["アジアけんきゅう"],
+    "furigana": ["アジア[あしあ]けんきゅう"],
     "english": ["Asian studies"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "It refers to the academic field focusing on the study of Asian cultures, languages, history, and societies.",
+      "The term combines 'アジア' (Asia)—written in Katakana—and 'けんきゅう' (research/study)."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
@@ -76,7 +100,10 @@
     "furigana": ["けいざい"],
     "english": ["economics"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "It refers to the social science that studies the production, distribution, and consumption of goods and services.",
+      "The term is commonly used in academic and professional contexts."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
@@ -85,7 +112,10 @@
     "furigana": ["こうがく"],
     "english": ["engineering"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "It refers to the application of scientific and mathematical principles to design, build, and maintain structures, machines, and systems.",
+      "The term is commonly used in academic and professional contexts."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
@@ -94,16 +124,21 @@
     "furigana": ["こくさいかんけい"],
     "english": ["international relations"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "It refers to the study of interactions between countries and the roles of sovereign states, intergovernmental organizations, non-governmental organizations, and multinational corporations.",
+      "The term combines 'こくさい' (international) and 'かんけい' (relations)."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
   {
     "word": "コンピューター",
-    "furigana": ["コンピューター"],
+    "furigana": ["コンピューター[こんぴゅうたあ"],
     "english": ["computer"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "'コンピューター' (written in Katakana) is an English loan word that sounds like 'computer', and has the same meaning."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
@@ -112,7 +147,10 @@
     "furigana": ["せいじ"],
     "english": ["politics"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "It refers to the activities, actions, and policies used to gain and hold power in a government or to influence government decisions.",
+      "The term is used in academic, professional, and everyday contexts."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
@@ -121,16 +159,21 @@
     "furigana": ["せいぶつがく"],
     "english": ["biology"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "It refers to the scientific study of life and living organisms, including their structure, function, growth, evolution, and distribution.",
+      "The term combines 'せいぶつ' (living things) and 'がく' (study)."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
   {
     "word": "ビジネス",
-    "furigana": ["ビジネス"],
+    "furigana": ["ビジネス[びじねす]"],
     "english": ["business"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "'ビジネス' (written in Katakana) is an English loan word that sounds like 'business' and also has the same meaning."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
@@ -139,7 +182,10 @@
     "furigana": ["ぶんがく"],
     "english": ["literature"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "It refers to written works, especially those considered of superior or lasting artistic merit.",
+      "The term is used in academic and literary contexts."
+    ],
     "example_sentences": [],
     "chapter": 1
   },
@@ -148,7 +194,10 @@
     "furigana": ["れきし"],
     "english": ["history"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "It refers to the study of past events, particularly in human affairs.",
+      "The term is used in academic, educational, and everyday contexts."
+    ],
     "example_sentences": [],
     "chapter": 1
   }
