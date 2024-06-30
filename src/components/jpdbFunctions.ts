@@ -45,7 +45,24 @@ export async function getDeck(deckName: string) {
   return { data: null, error: "Deck not found" }
 }
 
-export async function getJpdbVocab(deckName: string) {
+async function getjpdbVocabNames(vocabIds: number[][]) {
+  const apiKey = process.env.JPDB_API_KEY
+  const url = "https://jpdb.io/api/v1/lookup-vocabulary"
+  const options = {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      Accept: "application/json",
+      Authorization: `Bearer ${apiKey}`,
+    },
+    body: JSON.stringify({ list: vocabIds, fields: ["spelling"] }),
+  }
+
+  const response = await myFetch(url, options)
+  return response
+}
+
+export async function getJpdbVocab(deckName: string, vocabOptions: string[]) {
   const { data: deckData, error: deckError } = await getDeck(deckName)
   if (deckError) {
     console.error(deckError)
@@ -68,7 +85,30 @@ export async function getJpdbVocab(deckName: string) {
     },
     body: `{"id":${deckId},"fetch_occurences":false}`,
   }
-
   const response = await myFetch(url, options)
-  return response
+  // Error
+  if (response.error) {
+    console.error(response.error)
+    return
+  }
+  if (!response.data.vocabulary) {
+    console.log("No vocabulary found")
+    return
+  }
+
+  // Success
+  if (vocabOptions.includes("ids")) {
+    console.log(response.data.vocabulary)
+  }
+  if (vocabOptions.includes("words")) {
+    const namesArr = await getjpdbVocabNames(response.data.vocabulary)
+    // Error
+    if (namesArr.error) {
+      console.error(namesArr.error)
+      return
+    }
+    // Success
+    console.log(namesArr.data.vocabulary_info)
+  }
+  return
 }
