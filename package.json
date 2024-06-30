@@ -4,7 +4,8 @@
   "type": "module",
   "bin": {
     "nihongo-cli": "./index.ts",
-    "nihongo-practice": "./practice_modules.ts"
+    "nihongo-practice": "./practice_modules.ts",
+    "nihongo-jpdb": "./get_jpdb_vocab_ids.ts"
   },
   "nihongoninja-supabase-cli": "link:nihongoninja-supabase-cli",
   "devDependencies": {

@@ -1,0 +1,120 @@
+[
+  {
+    "word": "これ",
+    "furigana": ["これ"],
+    "english": ["this one"],
+    "mnemonics": [],
+    "info": ["Use これ when the object is close to you, the speaker."],
+    "example_sentences": ["これはペンです。"],
+    "chapter": 2
+  },
+  {
+    "word": "それ",
+    "furigana": ["それ"],
+    "english": ["that one"],
+    "mnemonics": [],
+    "info": ["Use それ when the object is close to the listener."],
+    "example_sentences": ["それはペンです。"],
+    "chapter": 2
+  },
+  {
+    "word": "あれ",
+    "furigana": ["あれ"],
+    "english": ["that one (over there)"],
+    "mnemonics": [],
+    "info": [
+      "Use あれ when the object is far from both the speaker and the listener."
+    ],
+    "example_sentences": ["あれはペンです。"],
+    "chapter": 2
+  },
+  {
+    "word": "どれ",
+    "furigana": ["どれ"],
+    "english": ["which one"],
+    "mnemonics": [],
+    "info": ["Use どれ to ask about which object among several choices."],
+    "example_sentences": ["どれがペンですか。"],
+    "chapter": 2
+  },
+  {
+    "word": "この",
+    "furigana": ["この"],
+    "english": ["this..."],
+    "mnemonics": [],
+    "info": ["Use この to specify an object close to you along with its noun."],
+    "example_sentences": ["このペンは青いです。"],
+    "chapter": 2
+  },
+  {
+    "word": "その",
+    "furigana": ["その"],
+    "english": ["that..."],
+    "mnemonics": [],
+    "info": [
+      "Use その to specify an object close to the listener along with its noun."
+    ],
+    "example_sentences": ["そのペンは青いです。"],
+    "chapter": 2
+  },
+  {
+    "word": "あの",
+    "furigana": ["あの"],
+    "english": ["that... (over there)"],
+    "mnemonics": [],
+    "info": [
+      "Use あの to specify an object far from both you and the listener along with its noun."
+    ],
+    "example_sentences": ["あのペンは青いです。"],
+    "chapter": 2
+  },
+  {
+    "word": "どの",
+    "furigana": ["どの"],
+    "english": ["which..."],
+    "mnemonics": [],
+    "info": [
+      "Use どの to ask about which specific object among several choices."
+    ],
+    "example_sentences": ["どのペンが青いですか。"],
+    "chapter": 2
+  },
+  {
+    "word": "ここ",
+    "furigana": ["ここ"],
+    "english": ["here"],
+    "mnemonics": [],
+    "info": ["Use ここ to indicate a place close to you, the speaker."],
+    "example_sentences": ["ここは教室です。"],
+    "chapter": 2
+  },
+  {
+    "word": "そこ",
+    "furigana": ["そこ"],
+    "english": ["there"],
+    "mnemonics": [],
+    "info": ["Use そこ to indicate a place close to the listener."],
+    "example_sentences": ["そこは教室です。"],
+    "chapter": 2
+  },
+  {
+    "word": "あそこ",
+    "furigana": ["あそこ"],
+    "english": ["over there"],
+    "mnemonics": [],
+    "info": [
+      "Use あそこ to indicate a place far from both you and the listener."
+    ],
+    "example_sentences": ["あそこは教室です。"],
+    "chapter": 2
+  },
+  {
+    "word": "どこ",
+    "furigana": ["どこ"],
+    "english": ["where"],
+    "mnemonics": [],
+    "info": ["Use どこ to ask about the location of a place."],
+    "example_sentences": ["教室はどこですか。"],
+    "chapter": 2
+  }
+]

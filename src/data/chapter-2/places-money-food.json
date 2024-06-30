@@ -1,0 +1,167 @@
+[
+  {
+    "word": "銀行",
+    "furigana": ["銀行[ぎんこう]"],
+    "english": ["bank"],
+    "mnemonics": [],
+    "info": [
+      "銀 (gin) means 'silver' and 行 (kou) means 'going'. Silver going to the bank.",
+      "Most banks in Japan operate from 9 AM to 3 PM on weekdays and are closed on weekends and national holidays.",
+      "ATMs are also widely available and often offer services in multiple languages."
+    ],
+    "example_sentences": ["銀行はどこですか。"],
+    "chapter": 2
+  },
+  {
+    "word": "コンビニ",
+    "furigana": ["コンビニ"],
+    "english": ["convenience store"],
+    "mnemonics": ["Sounds like 'convenience' in English."],
+    "info": [
+      "Japanese コンビニ offer a variety of services beyond typical shopping, including ATM access, bill payments, ticket purchases for events and public transport, photocopying, and package delivery services (takkyubin).",
+      "Many stores also provide free Wi-Fi and seating areas where customers can eat and relax.",
+      "コンビニ in Japan are known for their (relatively) high-quality, fresh food options. They sell a wide array of ready-to-eat meals, including bento boxes, onigiri (rice balls), sandwiches, salads, and hot foods like fried chicken and oden.",
+      "Japanese convenience stores are exceptionally clean and well-organized. Products are also meticulously arranged, making it easy for customers to find what they need."
+    ],
+    "example_sentences": ["コンビニはどこですか。"],
+    "chapter": 2
+  },
+  {
+    "word": "トイレ",
+    "furigana": ["トイレ"],
+    "english": ["toilet", "restroom", "bathroom"],
+    "mnemonics": ["Sounds like 'toilet' in English."],
+    "info": [
+      "While in English we say I 'need' to go to the bathroom, Japanese speakers use the 'want' verb conjugation instead: トイレに行きたいです (toile ni ikitai desu). Saying 'need' would sound weird. You'll learn the 'want' verb conjugation in Chapter 11."
+    ],
+    "example_sentences": ["トイレはどこですか。"],
+    "chapter": 2
+  },
+  {
+    "word": "図書館",
+    "furigana": ["図書館[としょかん]"],
+    "english": ["library"],
+    "mnemonics": [],
+    "info": [
+      "Libraries in Japan are typically very quiet, with strict rules about noise to maintain an environment conducive to reading and studying.",
+      "Japan also has specialized libraries, such as manga libraries, which house extensive collections of manga (Japanese comics) for enthusiasts and researchers."
+    ],
+    "example_sentences": ["図書館はどこですか。"],
+    "chapter": 2
+  },
+  {
+    "word": "郵便局",
+    "furigana": ["郵便局[ゆうびんきょく]"],
+    "english": ["post office"],
+    "mnemonics": ["You been (yuubin) to the post office yet?"],
+    "info": [],
+    "example_sentences": ["郵便局はどこですか。"],
+    "chapter": 2
+  },
+  {
+    "word": "いくら",
+    "furigana": ["いくら"],
+    "english": ["how much"],
+    "mnemonics": [
+      "Imagine inflation so bad that prices are in-cu-ra-mentally (いくら) rising as you shop in the store. You can't trust the price tags anymore and you'll have to ask 'how much?' for everything."
+    ],
+    "info": [],
+    "example_sentences": ["これはいくらですか。"],
+    "chapter": 2
+  },
+  {
+    "word": "～円",
+    "furigana": ["～ 円[えん]"],
+    "english": ["...yen"],
+    "mnemonics": [],
+    "info": [
+      "The yen is the official currency of Japan and is symbolized by ¥.",
+      "In Japanese, yen is pronounced 'en' (えん), but it is commonly referred to as 'yen' in English.",
+      "Yen coins come in denominations of 1, 5, 10, 50, 100, and 500 yen. Banknotes come in 1,000, 2,000, 5,000, and 10,000 yen."
+    ],
+    "example_sentences": ["これは百円です。"],
+    "chapter": 2
+  },
+  {
+    "word": "高い",
+    "furigana": ["高[たか]い"],
+    "english": ["expensive", "high"],
+    "mnemonics": [
+      "Imagine a 'taco' that's so 'expensive', it floats 'high' in the air like a celestial object."
+    ],
+    "info": [
+      "The word can describe both physical height (e.g., 高い山, takai yama, 'a high/tall mountain') and cost (e.g., 高い本, takai hon, 'an expensive book')."
+    ],
+    "example_sentences": ["このメニューは高いです。"],
+    "chapter": 2
+  },
+  {
+    "word": "おいしい",
+    "furigana": ["おいしい"],
+    "english": ["delicious"],
+    "mnemonics": [],
+    "info": [
+      "It is very commonly used to describe the flavor of food and beverages that one finds pleasant and enjoyable. You'll likely hear this word used a lot.",
+      "In Japan, people sometimes accompany the word おいしい with placing their hands on their cheeks and saying 'Mmm!' to emphasize the enjoyment of the food, depending on the personality and how much they love the food."
+    ],
+    "example_sentences": ["この魚はおいしいです。"],
+    "chapter": 2
+  },
+  {
+    "word": "魚",
+    "furigana": ["魚[さかな]"],
+    "english": ["fish"],
+    "mnemonics": [
+      "Ever thought about storing fish in socks? 🐟+🧦 = [Storage] ...No? Just me? Oh."
+    ],
+    "info": [],
+    "example_sentences": ["魚を食べます。"],
+    "chapter": 2
+  },
+  {
+    "word": "とんかつ",
+    "furigana": ["とんかつ"],
+    "english": ["pork cutlet"],
+    "mnemonics": [
+      "カツ is a shortened form of 'カツレツ' (katsuretsu), which is derived from the English word 'cutlet.'"
+    ],
+    "info": [
+      "とんかつ is a Japanese dish consisting of a breaded, deep-fried pork cutlet.",
+      "Ingredients: Typically made with either pork loin (ロース, rōsu) or pork fillet (ヒレ, hire), coated in panko (bread crumbs) before being deep-fried.",
+      "Serving Style: Often served with shredded cabbage, rice, and miso soup. It can also be served with a thick, sweet, and savory sauce known as 'とんかつソース' (tonkatsu sauce)."
+    ],
+    "example_sentences": ["とんかつが好きです。"],
+    "chapter": 2
+  },
+  {
+    "word": "肉",
+    "furigana": ["肉[にく]"],
+    "english": ["meat"],
+    "mnemonics": [
+      "Imagine a sumo wrestler saying 'need-ku' (niku) to stay strong and win his matches. 💪🍖"
+    ],
+    "info": [],
+    "example_sentences": ["肉を食べます。"],
+    "chapter": 2
+  },
+  {
+    "word": "メニュー",
+    "furigana": ["メニュー"],
+    "english": ["menu"],
+    "mnemonics": ["Sounds like 'menu' in English."],
+    "info": [],
+    "example_sentences": ["メニューをください。"],
+    "chapter": 2
+  },
+  {
+    "word": "野菜",
+    "furigana": ["野菜[やさい]"],
+    "english": ["vegetable"],
+    "mnemonics": [
+      "It kinda souns like 'yucky' in English, if you stretch your imagination a bit (a lot?). Idk, I just don't like vegetables, okay? 😅"
+    ],
+    "info": [],
+    "example_sentences": ["野菜を食べます。"],
+    "chapter": 2
+  }
+]
