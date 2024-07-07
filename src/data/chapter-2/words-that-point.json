@@ -4,7 +4,10 @@
     "furigana": ["これ"],
     "english": ["this one"],
     "mnemonics": [],
-    "info": ["Use これ when the object is close to you, the speaker."],
+    "info": [
+      "Use これ when the object is close to you, the speaker.",
+      "Situation: When you are holding a pen and showing it to someone next to you."
+    ],
     "example_sentences": ["これはペンです。"],
     "chapter": 2
   },
@@ -13,7 +16,10 @@
     "furigana": ["それ"],
     "english": ["that one"],
     "mnemonics": [],
-    "info": ["Use それ when the object is close to the listener."],
+    "info": [
+      "Use それ when the object is close to the listener.",
+      "Situation: When the pen is near the person you are speaking to."
+    ],
     "example_sentences": ["それはペンです。"],
     "chapter": 2
   },
@@ -23,7 +29,8 @@
     "english": ["that one (over there)"],
     "mnemonics": [],
     "info": [
-      "Use あれ when the object is far from both the speaker and the listener."
+      "Use あれ when the object is far from both the speaker and the listener.",
+      "Situation: When the pen is on a table across the room from both you and the listener."
     ],
     "example_sentences": ["あれはペンです。"],
     "chapter": 2
@@ -33,7 +40,10 @@
     "furigana": ["どれ"],
     "english": ["which one"],
     "mnemonics": [],
-    "info": ["Use どれ to ask about which object among several choices."],
+    "info": [
+      "Use どれ to ask about which object among several choices.",
+      "Situation: When there are several items on a table, and you want to know which one is the pen."
+    ],
     "example_sentences": ["どれがペンですか。"],
     "chapter": 2
   },
@@ -42,7 +52,10 @@
     "furigana": ["この"],
     "english": ["this..."],
     "mnemonics": [],
-    "info": ["Use この to specify an object close to you along with its noun."],
+    "info": [
+      "Use この to specify an object close to you along with its noun.",
+      "Situation: When you are holding a blue pen and describing it."
+    ],
     "example_sentences": ["このペンは青いです。"],
     "chapter": 2
   },
@@ -52,7 +65,8 @@
     "english": ["that..."],
     "mnemonics": [],
     "info": [
-      "Use その to specify an object close to the listener along with its noun."
+      "Use その to specify an object close to the listener along with its noun.",
+      "Situation: When the blue pen is near the listener, and you are describing it."
     ],
     "example_sentences": ["そのペンは青いです。"],
     "chapter": 2
@@ -63,7 +77,8 @@
     "english": ["that... (over there)"],
     "mnemonics": [],
     "info": [
-      "Use あの to specify an object far from both you and the listener along with its noun."
+      "Use あの to specify an object far from both you and the listener along with its noun.",
+      "Situation: When the blue pen is across the room from both you and the listener."
     ],
     "example_sentences": ["あのペンは青いです。"],
     "chapter": 2
@@ -74,7 +89,8 @@
     "english": ["which..."],
     "mnemonics": [],
     "info": [
-      "Use どの to ask about which specific object among several choices."
+      "Use どの to ask about which specific object among several choices.",
+      "Situation: When there are several pens, and you want to know which one is blue."
     ],
     "example_sentences": ["どのペンが青いですか。"],
     "chapter": 2
@@ -84,8 +100,11 @@
     "furigana": ["ここ"],
     "english": ["here"],
     "mnemonics": [],
-    "info": ["Use ここ to indicate a place close to you, the speaker."],
-    "example_sentences": ["ここは教室です。"],
+    "info": [
+      "Use ここ to indicate a place close to you, the speaker.",
+      "Situation: When you are inside the office."
+    ],
+    "example_sentences": ["ここはオフィスです。"],
     "chapter": 2
   },
   {
@@ -93,8 +112,11 @@
     "furigana": ["そこ"],
     "english": ["there"],
     "mnemonics": [],
-    "info": ["Use そこ to indicate a place close to the listener."],
-    "example_sentences": ["そこは教室です。"],
+    "info": [
+      "Use そこ to indicate a place close to the listener.",
+      "Situation: When the office is near the listener."
+    ],
+    "example_sentences": ["そこはオフィスです。"],
     "chapter": 2
   },
   {
@@ -103,9 +125,10 @@
     "english": ["over there"],
     "mnemonics": [],
     "info": [
-      "Use あそこ to indicate a place far from both you and the listener."
+      "Use あそこ to indicate a place far from both you and the listener.",
+      "Situation: When the office is far from both you and the listener."
     ],
-    "example_sentences": ["あそこは教室です。"],
+    "example_sentences": ["あそこはオフィスです。"],
     "chapter": 2
   },
   {
@@ -113,8 +136,68 @@
     "furigana": ["どこ"],
     "english": ["where"],
     "mnemonics": [],
-    "info": ["Use どこ to ask about the location of a place."],
-    "example_sentences": ["教室はどこですか。"],
+    "info": [
+      "Use どこ to ask about the location of a place.",
+      "Situation: When you want to know the location of the office."
+    ],
+    "example_sentences": ["オフィスはどこですか。"],
+    "chapter": 2
+  },
+  {
+    "word": "こちら",
+    "furigana": ["こちら"],
+    "english": ["this way/person"],
+    "mnemonics": [],
+    "info": [
+      "Use こちら for polite introductions or indicating direction close to you.",
+      "Situation: When introducing Mr. Tanaka who is near you."
+    ],
+    "example_sentences": ["こちらは田中さんです。"],
+    "chapter": 2
+  },
+  {
+    "word": "そちら",
+    "furigana": ["そちら"],
+    "english": ["that way/person"],
+    "mnemonics": [],
+    "info": [
+      "Use そちら for polite introductions or indicating direction close to the listener.",
+      "Situation: When asking about Mr. Yamada who is near the listener."
+    ],
+    "example_sentences": ["そちらは山田さんですか。"],
+    "chapter": 2
+  },
+  {
+    "word": "あちら",
+    "furigana": ["あちら"],
+    "english": ["that way/person (over there)"],
+    "mnemonics": [],
+    "info": [
+      "Use あちら for polite introductions or indicating direction far from both the speaker and the listener.",
+      "Situation: When referring to someone or something far from both you and the listener."
+    ],
+    "example_sentences": ["あちらは部長です。"],
+    "chapter": 2
+  },
+  {
+    "word": "どちら",
+    "furigana": ["どちら"],
+    "english": ["which way/person"],
+    "mnemonics": [],
+    "info": [
+      "Use どちら for polite questions about people or directions.",
+      "Situation: When asking politely about someone's identity or direction."
+    ],
+    "example_sentences": ["どちら様ですか。"],
+    "chapter": 2
+  },
+  {
+    "word": "誰",
+    "furigana": ["だれ"],
+    "english": ["who"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": ["あの学生は誰ですか。"],
     "chapter": 2
   }
 ]

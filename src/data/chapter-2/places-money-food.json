@@ -59,17 +59,6 @@
     "chapter": 2
   },
   {
-    "word": "いくら",
-    "furigana": ["いくら"],
-    "english": ["how much"],
-    "mnemonics": [
-      "Imagine inflation so bad that prices are in-cu-ra-mentally (いくら) rising as you shop in the store. You can't trust the price tags anymore and you'll have to ask 'how much?' for everything."
-    ],
-    "info": [],
-    "example_sentences": ["これはいくらですか。"],
-    "chapter": 2
-  },
-  {
     "word": "～円",
     "furigana": ["～ 円[えん]"],
     "english": ["...yen"],
@@ -83,9 +72,110 @@
     "chapter": 2
   },
   {
+    "word": "千",
+    "furigana": ["せん"],
+    "english": ["thousand"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": ["この本は千円です。"],
+    "chapter": 2
+  },
+  {
+    "word": "～万",
+    "furigana": ["～まん"],
+    "english": ["ten thousand"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": ["この車は五十万円です。"],
+    "chapter": 2
+  },
+  {
+    "word": "いくら",
+    "furigana": ["いくら"],
+    "english": ["how much"],
+    "mnemonics": [
+      "Imagine inflation so bad that prices are in-cu-ra-mentally (いくら) rising as you shop in the store. You can't trust the price tags anymore and you'll have to ask 'how much?' for everything."
+    ],
+    "info": [],
+    "example_sentences": ["これはいくらですか。"],
+    "chapter": 2
+  },
+  {
+    "word": "いらっしゃいませ",
+    "furigana": ["いらっしゃいませ"],
+    "english": ["welcome (to the store)"],
+    "mnemonics": [],
+    "info": [
+      "いらっしゃいませ is a polite greeting used when welcoming customers into a store."
+    ],
+    "example_sentences": ["いらっしゃいませ。何をお探しですか。"],
+    "chapter": 2
+  },
+  {
+    "word": "（～を）おねがいします",
+    "furigana": ["（～を）おねがいします"],
+    "english": ["Please (give me) X.", "I'd like to request X."],
+    "mnemonics": [],
+    "info": [
+      "Usage: Used when politely requesting something or asking for a favor.",
+      "This phrase is commonly heard in restaurants, shops, and formal situations. It conveys a high level of politeness and respect, making it suitable for professional and respectful interactions.",
+      "In this context, we use the ～を(o) particle to indicate the object we're referring to"
+    ],
+    "example_sentences": ["水をおねがいします。"],
+    "chapter": 2
+  },
+  {
+    "word": "（～を）ください",
+    "furigana": ["（～を）ください"],
+    "english": ["Please give me X."],
+    "mnemonics": [],
+    "info": [
+      "Usage: Used when asking for something directly.",
+      "This phrase is slightly less formal than （～を）おねがいします but still polite and widely used in shops, restaurants, and casual situations."
+    ],
+    "example_sentences": ["コーヒーをください"],
+    "chapter": 2
+  },
+  {
+    "word": "じゃあ",
+    "furigana": ["じゃあ"],
+    "english": ["well then..."],
+    "mnemonics": [],
+    "info": [
+      "Use じゃあ to transition or conclude a conversation.",
+      "Example: じゃあ、またね。-> Well then, see you later."
+    ],
+    "example_sentences": ["じゃあ、行きましょう。"],
+    "chapter": 2
+  },
+  {
+    "word": "どうぞ",
+    "furigana": ["どうぞ"],
+    "english": ["please (go ahead)"],
+    "mnemonics": [],
+    "info": [
+      "Use どうぞ to offer something or allow someone to go ahead.",
+      "Example: どうぞ、お入りください。-> Please, come on in."
+    ],
+    "example_sentences": ["どうぞ、お入りください。"],
+    "chapter": 2
+  },
+  {
+    "word": "どうも",
+    "furigana": ["どうも"],
+    "english": ["thanks", "hello", "sorry"],
+    "mnemonics": [],
+    "info": [
+      "Use どうも in various situations to express thanks, greet, or apologize.",
+      "Example: どうもありがとう。-> Thanks a lot."
+    ],
+    "example_sentences": ["どうもありがとう。"],
+    "chapter": 2
+  },
+  {
     "word": "高い",
     "furigana": ["高[たか]い"],
-    "english": ["expensive", "high"],
+    "english": ["expensive", "high", "tall"],
     "mnemonics": [
       "Imagine a 'taco' that's so 'expensive', it floats 'high' in the air like a celestial object."
     ],

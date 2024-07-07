@@ -1,103 +1,111 @@
 [
   {
-    "word": "いしゃ",
-    "furigana": ["いしゃ"],
+    "word": "医者",
+    "furigana": ["医者[いしゃ]"],
     "english": ["doctor"],
     "mnemonics": [],
     "info": [
       "It is used to refer to medical professionals who diagnose and treat illnesses.",
-      "The polite term 'おいしゃさん' (oishasan) is often used, especially by children."
+      "The polite term \"お医者さん\" (おいしゃさん) is often used, especially by children."
     ],
     "example_sentences": [],
-    "chapter": 1
+    "chapter": 1,
+    "category": "occupations-majors"
   },
   {
-    "word": "かいしゃいん",
-    "furigana": ["かいしゃいん"],
+    "word": "会社員",
+    "furigana": ["会社員[かいしゃいん]"],
     "english": ["office worker", "company employee"],
     "mnemonics": [],
     "info": [
       "It is used to describe someone who works for a company.",
-      "The term combines 'かいしゃ' (company) and 'いん' (member)."
+      "The term combines \"会社\" (company) and \"員\" (member)."
     ],
     "example_sentences": [],
-    "chapter": 1
+    "chapter": 1,
+    "category": "occupations-majors"
   },
   {
-    "word": "かんごし",
-    "furigana": ["かんごし"],
+    "word": "看護師",
+    "furigana": ["看護師[かんごし]"],
     "english": ["nurse"],
     "mnemonics": [],
     "info": [
       "It refers to healthcare professionals who care for patients and assist doctors.",
-      "The term is gender-neutral, although 'かんごふ' (kangofu) is sometimes used specifically for female nurses."
+      "The term is gender-neutral, although \"看護婦\" (かんごふ) is sometimes used specifically for female nurses."
     ],
     "example_sentences": [],
-    "chapter": 1
+    "chapter": 1,
+    "category": "occupations-majors"
   },
   {
-    "word": "こうこうせい",
-    "furigana": ["こうこうせい"],
+    "word": "高校生",
+    "furigana": ["高校生[こうこうせい]"],
     "english": ["high school student"],
     "mnemonics": [],
     "info": [
-      "It combines 'こうこう' (high school) and 'せい' (student).",
+      "It combines \"高校\" (high school) and \"生\" (student).",
       "High school in Japan typically includes grades 10 through 12."
     ],
     "example_sentences": [],
-    "chapter": 1
+    "chapter": 1,
+    "category": "occupations-majors"
   },
   {
-    "word": "しゅふ",
-    "furigana": ["しゅふ"],
+    "word": "主婦",
+    "furigana": ["主婦[しゅふ]"],
     "english": ["housewife", "homemaker"],
     "mnemonics": [],
     "info": [
       "It refers to someone who manages the household and takes care of the family.",
-      "The term can also apply to men who stay at home, although 'しゅふ' is traditionally used for women."
+      "The term can also apply to men who stay at home, although \"主夫\" is traditionally used for women."
     ],
     "example_sentences": [],
-    "chapter": 1
+    "chapter": 1,
+    "category": "occupations-majors"
   },
   {
-    "word": "だいがくいんせい",
-    "furigana": ["だいがくいんせい"],
+    "word": "大学院生",
+    "furigana": ["大学院生[だいがくいんせい]"],
     "english": ["graduate student"],
     "mnemonics": [],
     "info": [
-      "It combines 'だいがく' (university) with 'いん' (graduate school) and 'せい' (student).",
+      "It combines \"大学\" (university) with \"院\" (graduate school) and \"生\" (student).",
       "It refers to students pursuing advanced degrees beyond a bachelor's."
     ],
     "example_sentences": [],
-    "chapter": 1
+    "chapter": 1,
+    "category": "occupations-majors"
   },
   {
-    "word": "べんごし",
-    "furigana": ["べんごし"],
+    "word": "弁護士",
+    "furigana": ["弁護士[べんごし]"],
     "english": ["lawyer"],
     "mnemonics": [],
     "info": [
       "It refers to legal professionals who represent clients in court and provide legal advice.",
-      "The term combines 'べんご' (defense) and 'し' (professional)."
+      "The term combines \"弁護\" (defense) and \"士\" (professional)."
     ],
     "example_sentences": [],
-    "chapter": 1
+    "chapter": 1,
+    "category": "occupations-majors"
   },
   {
-    "word": "アジアけんきゅう",
-    "furigana": ["アジア[あしあ]けんきゅう"],
+    "word": "アジア研究",
+    "furigana": ["アジア 研究[けんきゅう]"],
     "english": ["Asian studies"],
     "mnemonics": [],
     "info": [
       "It refers to the academic field focusing on the study of Asian cultures, languages, history, and societies.",
-      "The term combines 'アジア' (Asia)—written in Katakana—and 'けんきゅう' (research/study)."
+      "The term combines \"アジア\" (Asia)—written in Katakana—and \"研究\" (research/study)."
     ],
     "example_sentences": [],
-    "chapter": 1
+    "chapter": 1,
+    "category": "occupations-majors"
   },
   {
-    "word": "けいざい",
-    "furigana": ["けいざい"],
+    "word": "経済",
+    "furigana": ["経済[けいざい]"],
     "english": ["economics"],
     "mnemonics": [],
     "info": [
@@ -105,11 +113,12 @@
       "The term is commonly used in academic and professional contexts."
     ],
     "example_sentences": [],
-    "chapter": 1
+    "chapter": 1,
+    "category": "occupations-majors"
   },
   {
-    "word": "こうがく",
-    "furigana": ["こうがく"],
+    "word": "工学",
+    "furigana": ["工学[こうがく]"],
     "english": ["engineering"],
     "mnemonics": [],
     "info": [
@@ -117,34 +126,37 @@
       "The term is commonly used in academic and professional contexts."
     ],
     "example_sentences": [],
-    "chapter": 1
+    "chapter": 1,
+    "category": "occupations-majors"
   },
   {
-    "word": "こくさいかんけい",
-    "furigana": ["こくさいかんけい"],
+    "word": "国際関係",
+    "furigana": ["国際関係[こくさいかんけい]"],
     "english": ["international relations"],
     "mnemonics": [],
     "info": [
       "It refers to the study of interactions between countries and the roles of sovereign states, intergovernmental organizations, non-governmental organizations, and multinational corporations.",
-      "The term combines 'こくさい' (international) and 'かんけい' (relations)."
+      "The term combines \"国際\" (international) and \"関係\" (relations)."
     ],
     "example_sentences": [],
-    "chapter": 1
+    "chapter": 1,
+    "category": "occupations-majors"
   },
   {
     "word": "コンピューター",
-    "furigana": ["コンピューター[こんぴゅうたあ"],
+    "furigana": ["コンピューター"],
     "english": ["computer"],
     "mnemonics": [],
     "info": [
-      "'コンピューター' (written in Katakana) is an English loan word that sounds like 'computer', and has the same meaning."
+      "\"コンピューター\" (written in Katakana) is an English loan word that sounds like \"computer\", and has the same meaning."
     ],
     "example_sentences": [],
-    "chapter": 1
+    "chapter": 1,
+    "category": "occupations-majors"
   },
   {
-    "word": "せいじ",
-    "furigana": ["せいじ"],
+    "word": "政治",
+    "furigana": ["政治[せいじ]"],
     "english": ["politics"],
     "mnemonics": [],
     "info": [
@@ -152,34 +164,37 @@
       "The term is used in academic, professional, and everyday contexts."
     ],
     "example_sentences": [],
-    "chapter": 1
+    "chapter": 1,
+    "category": "occupations-majors"
   },
   {
-    "word": "せいぶつがく",
-    "furigana": ["せいぶつがく"],
+    "word": "生物学",
+    "furigana": ["生物学[せいぶつがく]"],
     "english": ["biology"],
     "mnemonics": [],
     "info": [
       "It refers to the scientific study of life and living organisms, including their structure, function, growth, evolution, and distribution.",
-      "The term combines 'せいぶつ' (living things) and 'がく' (study)."
+      "The term combines \"生物\" (living things) and \"学\" (study)."
     ],
     "example_sentences": [],
-    "chapter": 1
+    "chapter": 1,
+    "category": "occupations-majors"
   },
   {
     "word": "ビジネス",
-    "furigana": ["ビジネス[びじねす]"],
+    "furigana": ["ビジネス"],
     "english": ["business"],
     "mnemonics": [],
     "info": [
-      "'ビジネス' (written in Katakana) is an English loan word that sounds like 'business' and also has the same meaning."
+      "\"ビジネス\" (written in Katakana) is an English loan word that sounds like \"business\" and also has the same meaning."
     ],
     "example_sentences": [],
-    "chapter": 1
+    "chapter": 1,
+    "category": "occupations-majors"
   },
   {
-    "word": "ぶんがく",
-    "furigana": ["ぶんがく"],
+    "word": "文学",
+    "furigana": ["文学[ぶんがく]"],
     "english": ["literature"],
     "mnemonics": [],
     "info": [
@@ -187,11 +202,12 @@
       "The term is used in academic and literary contexts."
     ],
     "example_sentences": [],
-    "chapter": 1
+    "chapter": 1,
+    "category": "occupations-majors"
   },
   {
-    "word": "れきし",
-    "furigana": ["れきし"],
+    "word": "歴史",
+    "furigana": ["歴史[れきし]"],
     "english": ["history"],
     "mnemonics": [],
     "info": [
@@ -199,11 +215,12 @@
       "The term is used in academic, educational, and everyday contexts."
     ],
     "example_sentences": [],
-    "chapter": 1
+    "chapter": 1,
+    "category": "occupations-majors"
   },
   {
-    "word": "えいご",
-    "furigana": ["えいご"],
+    "word": "英語",
+    "furigana": ["英語[えいご]"],
     "english": ["English language"],
     "mnemonics": [],
     "info": [

@@ -1,0 +1,202 @@
+[
+  {
+    "word": "一",
+    "furigana": ["一[いち]"],
+    "english": ["one"],
+    "mnemonics": [
+      "A pictograph of one line. Simple, straightforward, and is more recognizable than いち."
+    ],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "二",
+    "furigana": ["二[に]"],
+    "english": ["two"],
+    "mnemonics": [
+      "A pictograph of two lines. Wow, this isn't that hard. ( ‾́ ◡ ‾́ )"
+    ],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "三",
+    "furigana": ["三[さん]"],
+    "english": ["three"],
+    "mnemonics": ["A pictograph of three lines."],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "四",
+    "furigana": ["四[よん]"],
+    "english": ["four"],
+    "mnemonics": [
+      "A monster four times the size of a human has a mouth that's almost big enough to swallow them whole! We say almost because if it tried, the legs would still stick out!"
+    ],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "五",
+    "furigana": ["五[ご]"],
+    "english": ["five"],
+    "mnemonics": [
+      "On your mark, get set, go! (ご) -> Japanese: よーい、どん！"
+    ],
+    "info": ["Anime: My Hero Academia"],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "六",
+    "furigana": ["六[ろく]"],
+    "english": ["six"],
+    "mnemonics": [
+      "The Cookie Monster had six cookies 🍪 stolen by Oscar the Grouch and is seeking retribution. Oscar hides in a trash can with a lid over his head. He's the only one who can fit because he has such short legs."
+    ],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "七",
+    "furigana": ["七[なな]"],
+    "english": ["seven"],
+    "mnemonics": [
+      "If you rotate it 180 degrees, you'll notice it's just an upside-down seven."
+    ],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "八",
+    "furigana": ["八[はち]"],
+    "english": ["eight"],
+    "mnemonics": [
+      "I eight something so large, it bent my chopsticks.",
+      "The volcano hasn't erupted for eight years."
+    ],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "九",
+    "furigana": ["九[きゅう]"],
+    "english": ["nine"],
+    "mnemonics": [
+      "It looks like an elaborate letter n with a tiny i attached at the end (where it flares up). What do the letters n and i start spelling? Yep, the word nine.",
+      "A person in the doggie style position, waiting for (insert nine [unit of measurement] joke here)."
+    ],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "十",
+    "furigana": ["十[じゅう]"],
+    "english": ["ten"],
+    "mnemonics": [
+      "A pictograph of a cross, which signifies the number ten. You know, like the ten commandments?"
+    ],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "十七",
+    "furigana": ["十七[じゅうなな]"],
+    "english": ["seventeen"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "二十三",
+    "furigana": ["二十三[にじゅうさん]"],
+    "english": ["twenty-three"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "三十一",
+    "furigana": ["三十一[さんじゅういち]"],
+    "english": ["thirty-one"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "三十八",
+    "furigana": ["三十八[さんじゅうはち]"],
+    "english": ["thirty-eight"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "四十二",
+    "furigana": ["四十二[よんじゅうに]"],
+    "english": ["forty-two"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "五十五",
+    "furigana": ["五十五[ごじゅうご]"],
+    "english": ["fifty-five"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "六十九",
+    "furigana": ["六十九[ろくじゅうきゅう]"],
+    "english": ["sixty-nine"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "七十四",
+    "furigana": ["七十四[ななじゅうよん]"],
+    "english": ["seventy-four"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "八十六",
+    "furigana": ["八十六[はちじゅうろく]"],
+    "english": ["eighty-six"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  },
+  {
+    "word": "九十八",
+    "furigana": ["九十八[きゅうじゅうはち]"],
+    "english": ["ninety-eight"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 1
+  }
+]
