@@ -38,6 +38,7 @@ const getOptions = await checkbox({
     { name: "info", value: "info", checked: true },
     { name: "example_sentences", value: "example_sentences", checked: true },
     { name: "chapter", value: "chapter", checked: true },
+    { name: "category", value: "category", checked: true },
     { name: "videos", value: "videos", checked: true },
   ],
   required: true,
