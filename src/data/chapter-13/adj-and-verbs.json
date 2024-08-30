@@ -104,7 +104,7 @@
     "furigana": ["編[あ]む"],
     "english": ["to knit"],
     "mnemonics": [],
-    "info": [],
+    "info": ["Typically paired with objects using the を particle"],
     "example_sentences": [],
     "chapter": 13,
     "category": "ichidan-v"
@@ -134,7 +134,7 @@
     "furigana": ["磨[みが]く"],
     "english": ["to brush (teeth)", "to polish"],
     "mnemonics": [],
-    "info": [],
+    "info": ["Typically paired with objects using the を particle"],
     "example_sentences": [],
     "chapter": 13,
     "category": "ichidan-v"
@@ -152,10 +152,15 @@
   {
     "word": "感動する",
     "furigana": ["感動[かんどう]する"],
-    "english": ["to be moved by", "to be touched by"],
+    "english": ["to be moved (emotionally)", "to be touched (emotionally)"],
     "mnemonics": [],
-    "info": [],
-    "example_sentences": [],
+    "info": [
+      "Often used with the particle に",
+      "Basic structure: [Source of emotion] に 感動する \"[Subject] is moved by [source of emotion]\""
+    ],
+    "example_sentences": [
+      "美しい景色に感動しました。- I was moved by the beautiful scenery."
+    ],
     "chapter": 13,
     "category": "irr-v"
   }

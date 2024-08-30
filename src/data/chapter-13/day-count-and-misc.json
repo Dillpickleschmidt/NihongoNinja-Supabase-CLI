@@ -1,11 +1,13 @@
 [
   {
     "word": "～回",
-    "furigana": ["～回[かい]"],
+    "furigana": ["～ 回[かい]"],
     "english": ["...times"],
     "mnemonics": [],
     "info": [],
-    "example_sentences": [],
+    "example_sentences": [
+      "一週間に三回ジムに行きます。- I go to the gym three times a week. 一週間に means \"in one week\" or \"per week\""
+    ],
     "chapter": 13,
     "category": "adverbs-and-other-expressions"
   },
@@ -15,7 +17,9 @@
     "english": ["...kilometers", "...kilograms"],
     "mnemonics": [],
     "info": [],
-    "example_sentences": [],
+    "example_sentences": [
+      "私の家から駅まで2キロあります。- It's 2 kilometers from my house to the station."
+    ],
     "chapter": 13,
     "category": "adverbs-and-other-expressions"
   },
@@ -25,17 +29,21 @@
     "english": ["all"],
     "mnemonics": [],
     "info": [],
-    "example_sentences": [],
+    "example_sentences": [
+      "宿題を全部終わらせました。- I finished all of my homework."
+    ],
     "chapter": 13,
     "category": "adverbs-and-other-expressions"
   },
   {
     "word": "～と申します",
-    "furigana": ["～と申[もう]します"],
+    "furigana": ["～と 申[もう]します"],
     "english": ["my name is..."],
     "mnemonics": [],
     "info": [],
-    "example_sentences": [],
+    "example_sentences": [
+      "田中と申します。よろしくお願いします。- My name is Tanaka. Nice to meet you."
+    ],
     "chapter": 13,
     "category": "adverbs-and-other-expressions"
   },
@@ -45,7 +53,9 @@
     "english": ["especially"],
     "mnemonics": [],
     "info": [],
-    "example_sentences": [],
+    "example_sentences": [
+      "日本料理が好きです。特に寿司が好きです。- I like Japanese food. I especially like sushi."
+    ],
     "chapter": 13,
     "category": "adverbs-and-other-expressions"
   },

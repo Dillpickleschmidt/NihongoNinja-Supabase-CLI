@@ -120,7 +120,10 @@
     "furigana": ["象[ぞう]"],
     "english": ["elephant"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "There's a famous saying in Japan: '象牙の塔' (zōge no tō), meaning 'ivory tower', which uses the kanji for elephant",
+      "\"To live or be in an ivory tower is not to know about or to want to avoid the ordinary and unpleasant things that happen in people's lives\" (Cambridge)"
+    ],
     "example_sentences": [],
     "chapter": 13
   },
@@ -129,7 +132,11 @@
     "furigana": ["体[からだ]"],
     "english": ["body"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "Used in many compound words related to health and physical condition",
+      "In traditional Japanese medicine, the body is seen as a microcosm of the universe",
+      "The concept of 体 extends beyond just the physical body in Japanese culture"
+    ],
     "example_sentences": [],
     "chapter": 13
   },
