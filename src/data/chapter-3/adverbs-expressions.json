@@ -1,0 +1,145 @@
+[
+  {
+    "word": "あまり",
+    "furigana": ["あまり"],
+    "english": ["not very", "not much"],
+    "mnemonics": [],
+    "info": [
+      "Always used with a negative verb",
+      "Indicates that something doesn't happen or exist to a large degree"
+    ],
+    "example_sentences": [
+      "あまり日本語が話せません。",
+      "この映画はあまり面白くありません。"
+    ],
+    "chapter": 3
+  },
+  {
+    "word": "全然",
+    "furigana": ["全然[ぜんぜん]"],
+    "english": ["not at all", "absolutely not"],
+    "mnemonics": [],
+    "info": [
+      "Typically used with a negative verb",
+      "In casual speech, it can be used with positive verbs to mean 'totally'",
+      "Very strong negation"
+    ],
+    "example_sentences": ["全然わかりません。", "全然大丈夫です。"],
+    "chapter": 3
+  },
+  {
+    "word": "たいてい",
+    "furigana": ["たいてい"],
+    "english": ["usually", "mostly", "generally"],
+    "mnemonics": [],
+    "info": [
+      "Used to describe habitual actions or general states",
+      "Can be used at the beginning or in the middle of a sentence"
+    ],
+    "example_sentences": [
+      "たいてい7時に起きます。",
+      "週末はたいてい家にいます。"
+    ],
+    "chapter": 3
+  },
+  {
+    "word": "ちょっと",
+    "furigana": ["ちょっと"],
+    "english": ["a little", "somewhat", "just a moment"],
+    "mnemonics": [],
+    "info": [
+      "Very versatile word with multiple uses",
+      "Can soften requests or refusals",
+      "Often used as a filler word or to get someone's attention",
+      "Can mean 'a little difficult' or 'not very good' when used with negative nuance"
+    ],
+    "example_sentences": [
+      "はい、ちょっとだけください。",
+      "あ、今日はちょっと...",
+      "すみません、ちょっといいですか。",
+      "ちょっと待ってください。"
+    ],
+    "chapter": 3
+  },
+  {
+    "word": "大丈夫",
+    "furigana": ["大丈夫[だいじょうぶ]"],
+    "english": ["okay", "fine", "all right", "safe"],
+    "mnemonics": [],
+    "info": [
+      "Can be used as a question to ask if something is okay",
+      "Also used to reassure someone that everything is fine",
+      "Is often used as a polite refusal",
+      "Can be used as an adjective or adverb"
+    ],
+    "example_sentences": ["大丈夫ですか。", "はい、大丈夫です。"],
+    "chapter": 3
+  },
+  {
+    "word": "時々",
+    "furigana": ["時々[ときどき]"],
+    "english": ["sometimes", "occasionally"],
+    "mnemonics": [],
+    "info": [
+      "Indicates that an action occurs occasionally but not regularly",
+      "Can be used at the beginning or in the middle of a sentence"
+    ],
+    "example_sentences": ["時々映画を見に行きます。"],
+    "chapter": 3
+  },
+  {
+    "word": "よく",
+    "furigana": ["よく"],
+    "english": ["often", "frequently", "much", "well"],
+    "mnemonics": [],
+    "info": [
+      "Used to describe actions that occur frequently",
+      "Can also mean 'well' when used to describe how something is done",
+      "Often used at the beginning of a sentence"
+    ],
+    "example_sentences": ["よく図書館で勉強します。"],
+    "chapter": 3
+  },
+  {
+    "word": "そうですね",
+    "furigana": ["そうですね"],
+    "english": ["That's right", "Let me see", "I agree"],
+    "mnemonics": [],
+    "info": [
+      "Used to show agreement or to acknowledge what someone has said",
+      "Can be softened to そうですねぇ for a more thoughtful tone",
+      "Very common in conversation"
+    ],
+    "example_sentences": ["A: 日本語は難しいですね。 B: そうですね。"],
+    "chapter": 3
+  },
+  {
+    "word": "どうですか",
+    "furigana": ["どうですか"],
+    "english": ["How about...", "How is...", "What do you think?"],
+    "mnemonics": [],
+    "info": [
+      "Used to ask for an opinion or impression",
+      "Can be used about objects, situations, or experiences",
+      "Often used in sales or when offering something"
+    ],
+    "example_sentences": ["この料理はどうですか。"],
+    "chapter": 3
+  },
+  {
+    "word": "ええ",
+    "furigana": ["ええ"],
+    "english": ["Yes", "Yeah"],
+    "mnemonics": [],
+    "info": [
+      "A casual way to say 'yes' or to show agreement",
+      "Often used in conversation, especially by women",
+      "Can be elongated (ええぇ) for emphasis or to show hesitation"
+    ],
+    "example_sentences": [
+      "A: 映画を見に行きませんか。 B: ええ、行きましょう。",
+      "ええ、そうですね。"
+    ],
+    "chapter": 3
+  }
+]

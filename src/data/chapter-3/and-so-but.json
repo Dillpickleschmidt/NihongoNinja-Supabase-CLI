@@ -1,0 +1,86 @@
+[
+  {
+    "word": "そして",
+    "furigana": ["そして"],
+    "english": ["and", "and then"],
+    "mnemonics": [],
+    "info": [
+      "Used to add information or show a sequence of events",
+      "Connects sentences or ideas",
+      "Often implies a shorter time gap between events compared to それから"
+    ],
+    "example_sentences": [
+      "私は朝ごはんを食べます。そして、学校に行きます。",
+      "彼は医者です。そして、彼女は看護師です。"
+    ],
+    "chapter": 3
+  },
+  {
+    "word": "それから",
+    "furigana": ["それから"],
+    "english": ["and then", "after that"],
+    "mnemonics": [],
+    "info": [
+      "Similar to そして, but often implies a longer time gap between events",
+      "Used to connect sentences or ideas in a sequence",
+      "Can also be used to mean 'in addition' or 'moreover'"
+    ],
+    "example_sentences": [
+      "私は宿題をします。それから、テレビを見ます。",
+      "まず日本語を勉強します。それから、中国語も勉強したいです。"
+    ],
+    "chapter": 3
+  },
+  {
+    "word": "でも",
+    "furigana": ["でも"],
+    "english": ["but", "however"],
+    "mnemonics": [],
+    "info": [
+      "Used at the beginning of a sentence to mean 'but' or 'however'",
+      "Shows contrast or introduces a contradicting idea",
+      "Cannot appear in the middle of a sentence; must be at the beginning"
+    ],
+    "example_sentences": [
+      "日本語は難しいです。でも、楽しいです。",
+      "たいていうちで勉強します。でも、ときどき本を読みます。"
+    ],
+    "chapter": 3
+  },
+  {
+    "word": "けど",
+    "furigana": ["けど"],
+    "english": ["but", "however", "although"],
+    "mnemonics": [],
+    "info": [
+      "Used to connect two contrasting ideas within a sentence",
+      "More casual than が",
+      "Often used to introduce a new topic or provide background information",
+      "Can be used at the end of a sentence to soften a request or statement",
+      "Common in everyday conversation"
+    ],
+    "example_sentences": [
+      "映画は面白かったけど、長かったです。",
+      "あのう、週末ですけど、映画を見ませんか。",
+      "ちょっと暑いんですけど。"
+    ],
+    "chapter": 3
+  },
+  {
+    "word": "が",
+    "furigana": ["が"],
+    "english": ["but", "however", "although"],
+    "mnemonics": [],
+    "info": [
+      "Similar to けど, but more formal and often used in writing",
+      "Used to connect contrasting ideas or provide background information",
+      "More common in formal speech or writing",
+      "This usage is different from が as a subject marker"
+    ],
+    "example_sentences": [
+      "日本語を勉強していますが、まだ上手ではありません。",
+      "申し訳ありませんが、明日の会議に出席できません。"
+    ],
+    "chapter": 3
+  }
+]

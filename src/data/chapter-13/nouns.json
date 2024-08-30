@@ -1,0 +1,245 @@
+[
+  {
+    "word": "大人",
+    "furigana": ["大人[おとな]"],
+    "english": ["adult"],
+    "mnemonics": ["Big (大) person (人) = adult"],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 13
+  },
+  {
+    "word": "弁護士",
+    "furigana": ["弁護士[べんごし]"],
+    "english": ["lawyer"],
+    "mnemonics": [],
+    "info": [
+      "It refers to legal professionals who represent clients in court and provide legal advice.",
+      "The term combines \"弁護\" (defense) and \"士\" (professional)."
+    ],
+    "example_sentences": [],
+    "chapter": 13
+  },
+  {
+    "word": "私",
+    "furigana": ["私[わたくし]"],
+    "english": ["I (formal)"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 13
+  },
+  {
+    "word": "カレー",
+    "furigana": ["カレー"],
+    "english": ["curry"],
+    "mnemonics": ["Sounds just like the English word."],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 13
+  },
+  {
+    "word": "紅茶",
+    "furigana": ["紅茶[こうちゃ]"],
+    "english": ["black tea"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 13
+  },
+  {
+    "word": "着物",
+    "furigana": ["着物[きもの]"],
+    "english": ["kimono", "Japanese traditional dress"],
+    "mnemonics": ["Wear (着) + thing (物) = kimono"],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 13
+  },
+  {
+    "word": "セーター",
+    "furigana": ["セーター"],
+    "english": ["sweater"],
+    "mnemonics": ["Sounds just like the English word."],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 13
+  },
+  {
+    "word": "楽器",
+    "furigana": ["楽器[がっき]"],
+    "english": ["musical instrument"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 13
+  },
+  {
+    "word": "空手",
+    "furigana": ["空手[からて]"],
+    "english": ["karate"],
+    "mnemonics": ["Empty (空) + hand (手) = karate"],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 13
+  },
+  {
+    "word": "ゴルフ",
+    "furigana": ["ゴルフ"],
+    "english": ["golf"],
+    "mnemonics": ["Sounds just like the English word."],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 13
+  },
+  {
+    "word": "バイク",
+    "furigana": ["バイク"],
+    "english": ["motorcycle"],
+    "mnemonics": [],
+    "info": ["In Japan, it typically refers to motorcycles, not bicycles"],
+    "example_sentences": [],
+    "chapter": 13
+  },
+  {
+    "word": "象",
+    "furigana": ["象[ぞう]"],
+    "english": ["elephant"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 13
+  },
+  {
+    "word": "体",
+    "furigana": ["体[からだ]"],
+    "english": ["body"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 13
+  },
+  {
+    "word": "外国語",
+    "furigana": ["外国語[がいこくご]"],
+    "english": ["foreign language"],
+    "mnemonics": [
+      "Outside (外) + country (国) + language (語) = foreign language"
+    ],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 13
+  },
+  {
+    "word": "言葉",
+    "furigana": ["言葉[ことば]"],
+    "english": ["language", "word", "speech"],
+    "mnemonics": [],
+    "info": [
+      "Can refer to a single word, a phrase, or an entire language",
+      "Often used to discuss manner of speaking or choice of words"
+    ],
+    "example_sentences": [],
+    "chapter": 13
+  },
+  {
+    "word": "文法",
+    "furigana": ["文法[ぶんぽう]"],
+    "english": ["grammar"],
+    "mnemonics": ["Sentence (文) + method (法) = grammar"],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 13
+  },
+  {
+    "word": "アプリ",
+    "furigana": ["アプリ"],
+    "english": ["application", "app"],
+    "mnemonics": [],
+    "info": [
+      "Shortened from アプリケーション (application)",
+      "Usually refers to smartphone or computer applications"
+    ],
+    "example_sentences": [],
+    "chapter": 13
+  },
+  {
+    "word": "アパート",
+    "furigana": ["アパート"],
+    "english": ["apartment", "smaller apartment building"],
+    "mnemonics": ["Sounds just like the English word."],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 13
+  },
+  {
+    "word": "マンション",
+    "furigana": ["マンション"],
+    "english": ["larger apartment building", "condominium"],
+    "mnemonics": [],
+    "info": [
+      "Loan word from English 'mansion'",
+      "In Japan, refers to larger, more modern apartment buildings or condominiums",
+      "Usually considered more upscale than アパート"
+    ],
+    "example_sentences": [],
+    "chapter": 13
+  },
+  {
+    "word": "空港",
+    "furigana": ["空港[くうこう]"],
+    "english": ["airport"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 13
+  },
+  {
+    "word": "店",
+    "furigana": ["店[みせ]"],
+    "english": ["shop", "store"],
+    "mnemonics": [],
+    "info": [
+      "General term for any kind of shop or store",
+      "Often used in compound words to specify type of store"
+    ],
+    "example_sentences": [],
+    "chapter": 13
+  },
+  {
+    "word": "物価",
+    "furigana": ["物価[ぶっか]"],
+    "english": ["consumer prices", "cost of living"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 13
+  },
+  {
+    "word": "広告",
+    "furigana": ["広告[こうこく]"],
+    "english": ["advertisement"],
+    "mnemonics": ["Wide (広) + inform (告) = advertisement"],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 13
+  },
+  {
+    "word": "募集",
+    "furigana": ["募集[ぼしゅう]"],
+    "english": ["recruitment"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 13
+  },
+  {
+    "word": "約束",
+    "furigana": ["約束[やくそく]"],
+    "english": ["promise", "appointment"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 13
+  }
+]

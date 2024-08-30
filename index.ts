@@ -49,49 +49,61 @@ console.log("Selected options:", selectedOptions)
 
 const filteredData = filterData(Object.values(jsonData), selectedOptions)
 
+// Fetch existing words from the database that match the words in our input data
 const existingWords = await getWords(filteredData)
 
 const idsToUpdate: number[] = []
 
-// Step 3.5: Prompt for additional actions if words already exist and english values are different
+// Step 3.5: Prompt for additional actions if words already exist and english values or chapters are different
 if (existingWords.length > 0) {
   for (const entry of filteredData) {
     const matchingEntries = existingWords.filter(
       (word) => word.word === entry.word
     )
-    const differentEnglishEntries = matchingEntries.filter(
-      (word) => JSON.stringify(word.english) !== JSON.stringify(entry.english)
+    const differentEntries = matchingEntries.filter(
+      (word) => 
+        JSON.stringify(word.english) !== JSON.stringify(entry.english) ||
+        word.chapter !== entry.chapter
     )
 
     if (matchingEntries.length > 0) {
-      if (differentEnglishEntries.length > 0) {
+      if (differentEntries.length > 0) {
+        const existingEntriesMessage = matchingEntries
+          .map(word => `Chapter ${word.chapter}: English: "${word.english?.join(', ') || 'N/A'}"`)
+          .join('\n')
+
         const action = await select({
-          message: `The word ${entry.word} already exists in the database with different English values.`,
+          message: `The word "${entry.word}" exists in the following chapter(s):\n${existingEntriesMessage}\n\nYou're trying to add it to chapter ${entry.chapter} with English: "${entry.english?.join(', ') || 'N/A'}"\nWhat would you like to do?`,
           choices: [
             { name: "Create new entry", value: "create" },
-            { name: "Update entry", value: "update" },
+            { name: "Update an existing entry", value: "update" },
+            { name: "Skip this word", value: "skip" },
           ],
           loop: false,
         })
 
         if (action === "update") {
           const wordSelection = await select({
-            message: `Which word do you want to update?`,
+            message: `Which entry of "${entry.word}" do you want to update?`,
             choices: [
               new Separator(),
               ...matchingEntries.map((word) => ({
-                name: `${word.word} - ${word.english.join(", ")}`,
+                name: `Chapter ${word.chapter} - English: ${word.english?.join(", ") || 'N/A'}`,
                 value: word.id,
               })),
             ],
             loop: false,
           })
           idsToUpdate.push(wordSelection)
+        } else if (action === "skip") {
+          console.log(`Skipping word: ${entry.word}`)
         }
+        // If action is "create", we don't add to idsToUpdate,
+        // so it will be treated as a new entry
       } else {
-        // Default to updating if English values are the same
-        const wordSelection = matchingEntries[0].id
-        idsToUpdate.push(wordSelection)
+        // Automatically update if English values and chapter are the same
+        console.log(`Word "${entry.word}" already exists with the same English values in chapter ${entry.chapter}. Automatically updating.`)
+        idsToUpdate.push(matchingEntries[0].id)
       }
     }
   }
@@ -103,7 +115,10 @@ const wordsToUpdate: (VocabEntry & { id: number })[] = []
 
 for (const entry of filteredData) {
   const existingUpdateWord = existingWords.find(
-    (word) => word.word === entry.word && idsToUpdate.includes(word.id)
+    (word) => word.word === entry.word && 
+              (idsToUpdate.includes(word.id) || 
+               (JSON.stringify(word.english) === JSON.stringify(entry.english) && 
+                word.chapter === entry.chapter))
   )
 
   if (existingUpdateWord) {
@@ -127,7 +142,7 @@ async function getWords(entries: VocabEntry[]) {
   const words = entries.map((entry) => entry.word)
   const { data, error } = await supabase
     .from("vocabulary")
-    .select()
+    .select("id, word, english, chapter")
     .in("word", words)
 
   if (error) {
