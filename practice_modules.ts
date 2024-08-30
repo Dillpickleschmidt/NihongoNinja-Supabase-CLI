@@ -22,14 +22,14 @@ type VocabEntryWithId = VocabEntry & {
 
 async function upsertPracticeModules(
   path: string,
-  words: string[]
+  words: string[],
 ): Promise<void> {
   const entries: PracticeModule[] = []
 
   // Fetch all vocabulary entries for the given words
   const { data: vocabularyData, error } = await supabase
     .from("vocabulary")
-    .select("id, word, english")
+    .select("id, word, english, chapter")
     .in("word", words)
 
   if (error) {
@@ -64,7 +64,7 @@ async function upsertPracticeModules(
       const selectedWord = await select({
         message: `Multiple entries found for word "${word}". Please select the correct one:`,
         choices: matchingEntries.map((entry) => ({
-          name: `${entry.word} - ${entry.english?.join(", ")}`,
+          name: `${entry.word} - ${entry.english?.join(", ")} (chapter ${entry.chapter})`,
           value: entry.id,
         })),
         loop: false,
@@ -111,7 +111,7 @@ async function main() {
 
   const confirmation = await confirm({
     message: `Are you sure you want to upsert practice modules with \n\npath: "${slug}" \nwords: ${words.join(
-      ", "
+      ", ",
     )}?\n`,
   })
 

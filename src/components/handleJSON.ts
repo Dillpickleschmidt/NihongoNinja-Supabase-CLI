@@ -3,7 +3,7 @@ import { promises as fs } from "fs"
 import path from "path"
 
 export async function readJSONFile(
-  filePath: string
+  filePath: string,
 ): Promise<Record<string, VocabEntry>> {
   const fullPath = path.resolve(filePath)
   const data = await fs.readFile(fullPath, "utf-8")
@@ -13,7 +13,7 @@ export async function readJSONFile(
 // Filters the data to only include the selected options
 export function filterData(
   data: VocabEntry[],
-  selectedOptions: (keyof VocabEntry)[]
+  selectedOptions: (keyof VocabEntry)[],
 ): VocabEntry[] {
   return data.map((entry) => {
     const filteredEntry: Partial<VocabEntry> = { word: entry.word } // Always include the word
@@ -30,7 +30,7 @@ export function filterData(
 
 // Extracts the word property from each entry
 export function extractWordsFromJSON(
-  data: Record<string, VocabEntry>
+  data: Record<string, VocabEntry>,
 ): string[] {
   return Object.values(data).map((entry) => entry.word)
 }

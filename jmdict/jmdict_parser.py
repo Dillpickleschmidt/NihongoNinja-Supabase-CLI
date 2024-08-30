@@ -9,6 +9,8 @@ def rename_part_of_speech(pos):
         return "Suru verb - special class"
     elif "suru verb - included" in pos.lower():
         return "Suru verb - included"
+    elif "noun or participle which takes the aux. verb suru" in pos.lower():
+        return "Suru verb - compound word"
     return pos
 
 def parse_jmdict(input_file, output_file):

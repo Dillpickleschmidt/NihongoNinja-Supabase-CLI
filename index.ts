@@ -58,22 +58,25 @@ const idsToUpdate: number[] = []
 if (existingWords.length > 0) {
   for (const entry of filteredData) {
     const matchingEntries = existingWords.filter(
-      (word) => word.word === entry.word
+      (word) => word.word === entry.word,
     )
     const differentEntries = matchingEntries.filter(
-      (word) => 
+      (word) =>
         JSON.stringify(word.english) !== JSON.stringify(entry.english) ||
-        word.chapter !== entry.chapter
+        word.chapter !== entry.chapter,
     )
 
     if (matchingEntries.length > 0) {
       if (differentEntries.length > 0) {
         const existingEntriesMessage = matchingEntries
-          .map(word => `Chapter ${word.chapter}: English: "${word.english?.join(', ') || 'N/A'}"`)
-          .join('\n')
+          .map(
+            (word) =>
+              `Chapter ${word.chapter}: English: "${word.english?.join(", ") || "N/A"}"`,
+          )
+          .join("\n")
 
         const action = await select({
-          message: `The word "${entry.word}" exists in the following chapter(s):\n${existingEntriesMessage}\n\nYou're trying to add it to chapter ${entry.chapter} with English: "${entry.english?.join(', ') || 'N/A'}"\nWhat would you like to do?`,
+          message: `The word "${entry.word}" exists in the following chapter(s):\n${existingEntriesMessage}\n\nYou're trying to add it to chapter ${entry.chapter} with English: "${entry.english?.join(", ") || "N/A"}"\nWhat would you like to do?`,
           choices: [
             { name: "Create new entry", value: "create" },
             { name: "Update an existing entry", value: "update" },
@@ -88,7 +91,7 @@ if (existingWords.length > 0) {
             choices: [
               new Separator(),
               ...matchingEntries.map((word) => ({
-                name: `Chapter ${word.chapter} - English: ${word.english?.join(", ") || 'N/A'}`,
+                name: `Chapter ${word.chapter} - English: ${word.english?.join(", ") || "N/A"}`,
                 value: word.id,
               })),
             ],
@@ -102,7 +105,9 @@ if (existingWords.length > 0) {
         // so it will be treated as a new entry
       } else {
         // Automatically update if English values and chapter are the same
-        console.log(`Word "${entry.word}" already exists with the same English values in chapter ${entry.chapter}. Automatically updating.`)
+        console.log(
+          `Word "${entry.word}" already exists with the same English values in chapter ${entry.chapter}. Automatically updating.`,
+        )
         idsToUpdate.push(matchingEntries[0].id)
       }
     }
@@ -115,10 +120,11 @@ const wordsToUpdate: (VocabEntry & { id: number })[] = []
 
 for (const entry of filteredData) {
   const existingUpdateWord = existingWords.find(
-    (word) => word.word === entry.word && 
-              (idsToUpdate.includes(word.id) || 
-               (JSON.stringify(word.english) === JSON.stringify(entry.english) && 
-                word.chapter === entry.chapter))
+    (word) =>
+      word.word === entry.word &&
+      (idsToUpdate.includes(word.id) ||
+        (JSON.stringify(word.english) === JSON.stringify(entry.english) &&
+          word.chapter === entry.chapter)),
   )
 
   if (existingUpdateWord) {
@@ -154,7 +160,7 @@ async function getWords(entries: VocabEntry[]) {
 // Insert new vocabulary data
 async function insertVocabulary(entries: (VocabEntry & { id?: number })[]) {
   const entriesWithoutVideosAndId = entries.map(
-    ({ videos, id, ...entry }) => entry
+    ({ videos, id, ...entry }) => entry,
   )
   const { data, error } = await supabase
     .from("vocabulary")
@@ -179,7 +185,7 @@ async function insertVocabulary(entries: (VocabEntry & { id?: number })[]) {
 async function insertVideos(entries: (VocabEntry & { id?: number })[]) {
   const videoEntries = entries.flatMap(
     ({ id, videos }) =>
-      videos?.map((video) => ({ word_id: id, ...video })) || []
+      videos?.map((video) => ({ word_id: id, ...video })) || [],
   )
   if (videoEntries.length > 0) {
     const { data, error } = await supabase

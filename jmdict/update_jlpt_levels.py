@@ -25,15 +25,15 @@ def has_valid_pos(entry, valid_pos):
             return True
     return False
 
+def prioritize_valid_pos(parts_of_speech, valid_pos):
+    valid = [pos for pos in parts_of_speech if pos in valid_pos]
+    invalid = [pos for pos in parts_of_speech if pos not in valid_pos]
+    return valid + invalid
+
 def update_jlpt_levels(database_file, output_file, filtered_output_file, jlpt_files):
     # Load the conjugation database
     with open(database_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
-
-    # Load JLPT words
-    jlpt_words = {}
-    for level, file_path in jlpt_files.items():
-        jlpt_words[level] = load_jlpt_words(file_path)
 
     valid_pos = [
         "Godan verb with 'u' ending",
@@ -52,9 +52,22 @@ def update_jlpt_levels(database_file, output_file, filtered_output_file, jlpt_fi
         "Kuru verb - special class",
         "Suru verb - special class",
         "Suru verb - included",
+        "Suru verb - compound word",
         "I-adjective",
         "Na-adjective",
     ]
+
+    # Limit senses to first two for each entry and prioritize valid parts of speech
+    for category in data.keys():
+        for entry in data[category]:
+            entry['senses'] = entry['senses'][:2]
+            for sense in entry['senses']:
+                sense['parts_of_speech'] = prioritize_valid_pos(sense['parts_of_speech'], valid_pos)
+
+    # Load JLPT words
+    jlpt_words = {}
+    for level, file_path in jlpt_files.items():
+        jlpt_words[level] = load_jlpt_words(file_path)
 
     # Update JLPT levels and remove unmatched words
     jlpt_counts = {level: 0 for level in jlpt_files.keys()}

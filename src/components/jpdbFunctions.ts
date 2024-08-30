@@ -5,7 +5,7 @@ type ActionResponse = {
 
 async function myFetch(
   url: string,
-  options: RequestInit
+  options: RequestInit,
 ): Promise<ActionResponse> {
   const response = await fetch(url, options)
   if (!response.ok) {

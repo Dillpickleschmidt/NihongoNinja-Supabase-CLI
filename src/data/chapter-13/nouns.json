@@ -25,7 +25,10 @@
     "furigana": ["私[わたくし]"],
     "english": ["I (formal)"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "Usage: Very formal, gender-neutral. (Note: Both わたし and わたくし use the same kanji, 私)",
+      "Context: Used in highly formal situations, such as official speeches, ceremonies, or when speaking to someone of significantly higher status."
+    ],
     "example_sentences": [],
     "chapter": 13
   },
@@ -34,7 +37,11 @@
     "furigana": ["カレー"],
     "english": ["curry"],
     "mnemonics": ["Sounds just like the English word."],
-    "info": [],
+    "info": [
+      "Milder and sweeter than Indian or Thai curry",
+      "カレーライス (curry rice) is considered a national dish",
+      "Introduced to Japan by the British Navy in late 19th century"
+    ],
     "example_sentences": [],
     "chapter": 13
   },
@@ -43,7 +50,11 @@
     "furigana": ["紅茶[こうちゃ]"],
     "english": ["black tea"],
     "mnemonics": [],
-    "info": [],
+    "info": [
+      "Literally means 'red tea' in Japanese, referring to the reddish color of black tea",
+      "Introduced to Japan in the 17th century by Dutch traders",
+      "Often served with milk and sugar, unlike traditional Japanese green tea"
+    ],
     "example_sentences": [],
     "chapter": 13
   },
@@ -52,7 +63,10 @@
     "furigana": ["着物[きもの]"],
     "english": ["kimono", "Japanese traditional dress"],
     "mnemonics": ["Wear (着) + thing (物) = kimono"],
-    "info": [],
+    "info": [
+      "Evolved from the Chinese hanfu during the Heian period (794-1185)",
+      "Became the main form of dress for all classes in Japan during the Edo period (1603-1867)"
+    ],
     "example_sentences": [],
     "chapter": 13
   },
