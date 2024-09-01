@@ -1,0 +1,122 @@
+[
+  {
+    "word": "欲しい",
+    "furigana": ["欲[ほ]しい"],
+    "english": ["to want"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 14,
+    "category": "i-adj"
+  },
+  {
+    "word": "おしゃれ",
+    "furigana": ["おしゃれ"],
+    "english": ["fashionable", "stylish"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 14,
+    "category": "na-adj"
+  },
+  {
+    "word": "けち",
+    "furigana": ["けち"],
+    "english": ["stingy", "cheap"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 14,
+    "category": "na-adj"
+  },
+  {
+    "word": "送る",
+    "furigana": ["送[おく]る"],
+    "english": ["to send"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 14,
+    "category": "ichidan-v"
+  },
+  {
+    "word": "に会う",
+    "furigana": ["に 会[あ]う"],
+    "english": ["to look good (on somebody)"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 14,
+    "category": "ichidan-v"
+  },
+  {
+    "word": "あきらめる",
+    "furigana": ["あきらめる"],
+    "english": ["to give up"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 14,
+    "category": "godan-v"
+  },
+  {
+    "word": "あげる",
+    "furigana": ["あげる"],
+    "english": ["to give (to others)"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 14,
+    "category": "godan-v"
+  },
+  {
+    "word": "くれる",
+    "furigana": ["くれる"],
+    "english": ["to give (me)"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 14,
+    "category": "godan-v"
+  },
+  {
+    "word": "できる",
+    "furigana": ["できる"],
+    "english": ["to come into existence", "to be made"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 14,
+    "category": "godan-v"
+  },
+  {
+    "word": "相談する",
+    "furigana": ["相談[そうだん]する"],
+    "english": ["to consult"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 14,
+    "category": "irr-v"
+  },
+  {
+    "word": "注意する",
+    "furigana": ["注意[ちゅうい]する"],
+    "english": ["to give warning", "to watch out"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 14,
+    "category": "irr-v"
+  },
+  {
+    "word": "プロポーズする",
+    "furigana": ["プロポーズする"],
+    "english": ["to propose marriage"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 14,
+    "category": "irr-v"
+  }
+]

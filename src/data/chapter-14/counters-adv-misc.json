@@ -1,0 +1,132 @@
+[
+  {
+    "word": "～くん",
+    "furigana": ["～くん"],
+    "english": ["Mr./Ms.... (casual)"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 14,
+    "category": "adverbs-and-other-expressions"
+  },
+  {
+    "word": "～たち",
+    "furigana": ["～たち"],
+    "english": ["makes a noun plural"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 14,
+    "category": "adverbs-and-other-expressions"
+  },
+  {
+    "word": "こんな～",
+    "furigana": ["こんな～"],
+    "english": ["...like this", "this kind of..."],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 14,
+    "category": "adverbs-and-other-expressions"
+  },
+  {
+    "word": "急に",
+    "furigana": ["急[きゅう]に"],
+    "english": ["suddenly"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 14,
+    "category": "adverbs-and-other-expressions"
+  },
+  {
+    "word": "ちょうど",
+    "furigana": ["ちょうど"],
+    "english": ["exactly"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 14,
+    "category": "adverbs-and-other-expressions"
+  },
+  {
+    "word": "よく",
+    "furigana": ["よく"],
+    "english": ["well"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 14,
+    "category": "adverbs-and-other-expressions"
+  },
+  {
+    "word": "さあ",
+    "furigana": ["さあ"],
+    "english": ["I am not sure..."],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 14,
+    "category": "adverbs-and-other-expressions"
+  },
+  {
+    "word": "どうしたらいい",
+    "furigana": ["どうしたらいい"],
+    "english": ["what should one do"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 14,
+    "category": "adverbs-and-other-expressions"
+  },
+  {
+    "word": "～個",
+    "furigana": ["～ 個[こ]"],
+    "english": ["generic counter for smaller items"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 14,
+    "category": "counters"
+  },
+  {
+    "word": "～冊",
+    "furigana": ["～ 冊[さつ]"],
+    "english": ["counter for bound volumes"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 14,
+    "category": "counters"
+  },
+  {
+    "word": "～台",
+    "furigana": ["～ 台[だい]"],
+    "english": ["counter for equipment"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 14,
+    "category": "counters"
+  },
+  {
+    "word": "～匹",
+    "furigana": ["～ 匹[ひき]"],
+    "english": ["counter for smaller animals"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 14,
+    "category": "counters"
+  },
+  {
+    "word": "～本",
+    "furigana": ["～ 本[ほん]"],
+    "english": ["counter for long objects"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 14,
+    "category": "counters"
+  }
+]
