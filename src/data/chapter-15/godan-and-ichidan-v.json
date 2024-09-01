@@ -1,0 +1,122 @@
+[
+  {
+    "word": "売る",
+    "furigana": ["売[う]る"],
+    "english": ["to sell"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 15,
+    "category": "ichidan-v"
+  },
+  {
+    "word": "下す",
+    "furigana": ["下[おろ]す"],
+    "english": ["to withdraw (money)"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 15,
+    "category": "ichidan-v"
+  },
+  {
+    "word": "描く",
+    "furigana": ["描[えが]く"],
+    "english": ["to draw", "to paint"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 15,
+    "category": "ichidan-v"
+  },
+  {
+    "word": "探す",
+    "furigana": ["探[さが]す"],
+    "english": ["to look for"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 15,
+    "category": "ichidan-v"
+  },
+  {
+    "word": "誘う",
+    "furigana": ["誘[さそ]う"],
+    "english": ["to invite"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 15,
+    "category": "ichidan-v"
+  },
+  {
+    "word": "しゃべる",
+    "furigana": ["しゃべる"],
+    "english": ["to chat"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 15,
+    "category": "ichidan-v"
+  },
+  {
+    "word": "付き合う",
+    "furigana": ["付[つ]き 合[あ]う"],
+    "english": ["to date (someone)", "to keep company"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 15,
+    "category": "ichidan-v"
+  },
+  {
+    "word": "着く",
+    "furigana": ["着[つ]く"],
+    "english": ["to arrive"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 15,
+    "category": "ichidan-v"
+  },
+  {
+    "word": "保険に入る",
+    "furigana": ["保険[ほけん]に 入[はい]る"],
+    "english": ["to buy insurance"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 15,
+    "category": "ichidan-v"
+  },
+  {
+    "word": "気をつける",
+    "furigana": ["気[き]をつける"],
+    "english": ["to be cautious", "to be careful"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 15,
+    "category": "godan-v"
+  },
+  {
+    "word": "調べる",
+    "furigana": ["調[しら]べる"],
+    "english": ["to look into (a matter)"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 15,
+    "category": "godan-v"
+  },
+  {
+    "word": "見える",
+    "furigana": ["見[み]える"],
+    "english": ["to be visible"],
+    "mnemonics": [],
+    "info": [],
+    "example_sentences": [],
+    "chapter": 15,
+    "category": "godan-v"
+  }
+]
